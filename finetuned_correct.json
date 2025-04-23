@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Angie bought three times as many pretzels at the mall as Shelly did. Shelly bought half as many pretzels as Barry. If Barry bought 12 pretzels, how many did Angie buy?",
+    "predicted_answer": "Angie bought 3*12=<<3*12=36>>36 pretzels.\nShelly bought 36/2=<<36/2=18>>18 pretzels.\n#### 18",
+    "gold_answer": "Shelly bought 12/2=<<12/2=6>>6 pretzels\nAngie bought 6*3=<<6*3=18>>18 pretzels\n#### 18"
+  },
+  {
+    "question": "Peter is eating chips. Each chip is 10 calories. A bag has 24 chips and costs $2. If he wants to eat 480 calories, how much does he have to spend on chips?",
+    "predicted_answer": "He needs 480 calories because 480 / 10 = <<480/10=24>>24\nHe needs 480 calories because 24 / 2 = <<24/2=4>>4\n#### 4",
+    "gold_answer": "Each bag has 240 calories because 24 x 10 = <<24*10=240>>240\nHe needs two bags because 480 / 240 = <<480/240=2>>2\nIt will cost $4 because 2 x 2 = <<2*2=4>>4\n#### 4"
+  }
+]
