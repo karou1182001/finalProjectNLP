@@ -1,4 +1,4 @@
 # Ignorar todo dentro de gpt2-gsm8k-finetuned
-gpt2-gsm8k-finetuned/
+/gpt2Model/gpt2-gsm8k-finetuned/
 /phiModel/results_phi/
 
