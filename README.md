@@ -48,3 +48,34 @@ perfect_subset_modified.json → Subset of perfect predictions after dataset mod
 
 
 perfect_subset_zoroCOT.json → Subset of perfect predictions for zero-shot CoT runs
+
+For Phi Model files and folder:
+all_predictions_phi.json → Combined predictions for Phi model (all runs)
+
+
+all_predictions_zeroCOT_phi.json → Combined predictions for Phi zero-shot CoT runs
+
+
+perfect_subset_phi.json → Perfect (100% correct) subset, Phi model
+
+
+perfect_subset_phiOriginal.json → Perfect subset from original Phi dataset
+
+
+perfect_subset_zoroCOT_phi.json → Perfect subset, zero-shot CoT Phi results
+
+
+perfect_subset_zoroCOT_phiOriginal.json → Perfect subset, original Phi zero-shot CoT
+
+
+phi.ipynb → Jupyter Notebook for Phi base model experiments
+
+
+phiNofinetune.ipynb → Phi runs without fine-tuning
+
+
+phiRerunWithJsonFile1.ipynb → Rerun of Phi with JSON inputs (part 1)
+
+
+phiRerunWithJsonFile2.ipynb → Rerun of Phi with JSON inputs (part 2)
+
