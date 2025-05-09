@@ -66,7 +66,7 @@ These scripts typically read input data (like JSON files), run evaluations or pr
 
 ---
 
-## 📓 Running Jupyter Notebooks
+##  Running Jupyter Notebooks
 
 1. Launch Jupyter Notebook:
     ```bash
