@@ -4,7 +4,7 @@ This project explores the **mathematical reasoning capabilities** of large langu
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ### GPT-2 (Large and Medium)
 
@@ -42,7 +42,7 @@ This project explores the **mathematical reasoning capabilities** of large langu
 
 ---
 
-## 🐍 Running Python Scripts
+## Running Python Scripts
 
 1. Make sure you have Python installed (recommended: Python 3.8 or later).
 
