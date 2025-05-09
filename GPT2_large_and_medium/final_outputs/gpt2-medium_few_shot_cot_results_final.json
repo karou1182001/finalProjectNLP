@@ -1,0 +1,306 @@
+[
+  {
+    "id": 0,
+    "question": "FYI \u2013 here\u2019s a little twist: Gunter is counting jelly beans in a jar. One friend says 100. Another says 30 more than half of the first guess. A third says 30% more than the first one. What\u2019s their average guess? Let\u2019s do the math carefully.",
+    "gold": "110",
+    "pred": "1320",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: FYI \u2013 here\u2019s a little twist: Gunter is counting jelly beans in a jar. One friend says 100. Another says 30 more than half of the first guess. A third says 30% more than the first one. What\u2019s their average guess? Let\u2019s do the math carefully. Let's think step by step:\n1. 100 + 30 + 30 = <<100+30+30=180>>180\n2. 180 + 180 = <<180+180=280>>280\n3. 280 + 180 = <<280+180=420>>420\n4. 420 + 180 = <<420+180=780>>780\n5. 780 + 180 = <<780+180=1320>>1320\n#### 1320"
+  },
+  {
+    "id": 1,
+    "question": "By the way, here\u2019s something interesting! A mechanic charges $70 per truck tire and $50 per car tire. On Thursday, they fix 5 truck tires and 3 car tires. On Friday, they fix 10 car tires only. How much more money was earned on the higher-revenue day?",
+    "gold": "50",
+    "pred": "3",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: By the way, here\u2019s something interesting! A mechanic charges $70 per truck tire and $50 per car tire. On Thursday, they fix 5 truck tires and 3 car tires. On Friday, they fix 10 car tires only. How much more money was earned on the higher-revenue day? Let's think step by step:\n1. 5 truck tires + 3 car tires = $70 + $50 = $<<5+3=9>>9.\n2. 10 car tires = $70 - $50 = $<<10-4=6>>6.\n3. 6 car tires = $70 - $50 = $<<6-5=3>>3.\n4. 3 car tires = $70 - $50 = $<<3=3>>3.\n5. 3 car tires"
+  },
+  {
+    "id": 2,
+    "question": "Quick note before we jump in: Vincent can buy flower packs \u2014 4 for $3 or 2 for $1.20. How much does he save if he buys 24 flowers at the better price? Think it through!",
+    "gold": "9",
+    "pred": "4",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Quick note before we jump in: Vincent can buy flower packs \u2014 4 for $3 or 2 for $1.20. How much does he save if he buys 24 flowers at the better price? Think it through! Let's think step by step:\n1. 4 m = 4 m / 4 m = <<4/4=2>>2 m.\n2. 2 m = 2 m / 4 m = <<2/4=1>>1 m.\n3. 1 m = 1 m / 4 m = <<1/4=1>>1 m.\n4. 1 m = 1 m / 4 m = <<1/4=1>>1 m.\n5. 1 m = 1 m / 4 m ="
+  },
+  {
+    "id": 3,
+    "question": "Just a heads-up: Gene is sewing a quilt. He\u2019s been on 5 vacations per year since he was 22, and now he\u2019s 34. Each trip gives one shirt for the quilt. How many quilt blocks does Gene have? Let\u2019s calculate that!",
+    "gold": "60",
+    "pred": "3",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Just a heads-up: Gene is sewing a quilt. He\u2019s been on 5 vacations per year since he was 22, and now he\u2019s 34. Each trip gives one shirt for the quilt. How many quilt blocks does Gene have? Let\u2019s calculate that! Let's think step by step:\n1. 5 vacations.\n2. 34 years.\n3. 5 x 3 = <<5*3=15>>15.\n4. 15 x 4 = <<15*4=60>>60.\n5. 60 - 6 = <<60-6=48>>48.\n6. 48 - 5 = <<48-5=43>>43.\n7. 43 - 4 = <<43-4=36>>36.\n8. 36 - 3 = <<"
+  },
+  {
+    "id": 4,
+    "question": "Friendly reminder! Harry slept 10 hours last night. James slept only 2/3 of Harry\u2019s time. How many more hours did Harry sleep than James?",
+    "gold": "4",
+    "pred": "4",
+    "correct": true,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Friendly reminder! Harry slept 10 hours last night. James slept only 2/3 of Harry\u2019s time. How many more hours did Harry sleep than James? Let's think step by step:\n1. 10 hours - 2/3 = <<10-2/3=4>>4 hours.\n2. 4 hours - 2/3 = <<4-2/3=2>>2 hours.\n3. 2 hours - 2/3 = <<2-2/3=1>>1 hour.\n4. 1 hour - 1 = <<1-1=0>>0 hours.\n5. 5 hours - 1 = <<5-1=4>>4"
+  },
+  {
+    "id": 5,
+    "question": "Quick heads-up: John has 3 boxes, each 7 x 8 x 6 inches. The walls are 1 inch thick. What is the total inner volume of all 3 boxes?",
+    "gold": "240",
+    "pred": "3",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Quick heads-up: John has 3 boxes, each 7 x 8 x 6 inches. The walls are 1 inch thick. What is the total inner volume of all 3 boxes? Let's think step by step:\n1. 3 boxes.\n2. 3 x 7 = <<3*7=21>>21 inches.\n3. 3 x 8 = <<3*8=24>>24 inches.\n4. 3 x 6 = <<3*6=18>>18 inches.\n5. 3 x 12 = <<3*12=36>>36 inches.\n6. 3 x 24 = <<3*24=72>>72 inches.\n7. 3 x 36 = <<3"
+  },
+  {
+    "id": 6,
+    "question": "FYI \u2013 here\u2019s a fun one: Charlie has four times as many Facebook friends as Dorothy. James has five times Dorothy\u2019s count. If Charlie has 16 friends, how many friends does James have?",
+    "gold": "20",
+    "pred": "16",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: FYI \u2013 here\u2019s a fun one: Charlie has four times as many Facebook friends as Dorothy. James has five times Dorothy\u2019s count. If Charlie has 16 friends, how many friends does James have? Let's think step by step:\n1. 16 friends.\n2. 4 friends.\n3. 5 friends.\n4. 6 friends.\n5. 8 friends.\n6. 8 friends.\n7. 16 friends.\n8. 16 friends.\n9. 16 friends.\n10. 16 friends.\n11. 16 friends.\n12. 16 friends.\n13. 16 friends.\n14. 16 friends.\n15. 16 friends.\n16. 16 friends.\n17. 16"
+  },
+  {
+    "id": 7,
+    "question": "By the way, Carl buys 12 packs of cookies, each with 8 cookies, at $0.15 per cookie. How much change does Carl get from a $20 bill?",
+    "gold": "5.60",
+    "pred": "1",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: By the way, Carl buys 12 packs of cookies, each with 8 cookies, at $0.15 per cookie. How much change does Carl get from a $20 bill? Let's think step by step:\n1. 12 packs of cookies.\n2. 8 cookies.\n3. 12 x 0.15 = $<<12*0.15=6>>6.\n4. 6 - 6 = $<<6-6=2>>2.\n5. 2 - 2 = $<<2-2=1>>1.\n6. 1 = $<<1=1>>1.\n#### 1"
+  },
+  {
+    "id": 8,
+    "question": "Quick note before we continue: Chad orders a burrito at $7.50, adds $2.50 for extra meat, $1.50 for cheese, $1.50 for avocado, and two sauces at $0.30 each. Meal upgrade: $3.50. He uses a $6.00 gift card. How much does he still owe?",
+    "gold": "11.60",
+    "pred": "1",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Quick note before we continue: Chad orders a burrito at $7.50, adds $2.50 for extra meat, $1.50 for cheese, $1.50 for avocado, and two sauces at $0.30 each. Meal upgrade: $3.50. He uses a $6.00 gift card. How much does he still owe? Let's think step by step:\n1. $7.50 + $2.50 + $1.50 + $1.50 + $1.50 + $1.50 + $1.50 + $1.50 + $1.50 + $1.50 + $1.50 + $1.50 + $1.50 + $1.50 + $1.50 + $1.50 + $1.50 + $1.50 + $1.50 + $1"
+  },
+  {
+    "id": 9,
+    "question": "Heads-up! Dax visits the farm and finds half as many bugs as 60 ants. What\u2019s the total insect count?",
+    "gold": "90",
+    "pred": "4",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Heads-up! Dax visits the farm and finds half as many bugs as 60 ants. What\u2019s the total insect count? Let's think step by step:\n1. 60 ants.\n2. 60 / 2 = <<60/2=30>>30 bugs.\n3. 30 bugs + 30 bugs = <<30+30=60>>60 bugs.\n4. 60 bugs - 60 bugs = <<60-60=10>>10 bugs.\n5. 10 bugs - 6 bugs = <<10-6=4>>4 bugs.\n#### 4"
+  },
+  {
+    "id": 10,
+    "question": "FYI \u2013 a 48-page tabloid folds so that page 1 is left back, page 2 left front, page 48 right back, and page 47 right front. How many sheets of paper are used?",
+    "gold": "12",
+    "pred": "76",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: FYI \u2013 a 48-page tabloid folds so that page 1 is left back, page 2 left front, page 48 right back, and page 47 right front. How many sheets of paper are used? Let's think step by step:\n1. 48 pages.\n2. 48 pages + 4 pages = <<48+4=52>>52 pages.\n3. 52 pages + 6 pages = <<52+6=56>>56 pages.\n4. 56 pages + 12 pages = <<56+12=64>>64 pages.\n5. 64 pages + 24 pages = <<64+24=76>>76 pages.\n#### 76"
+  },
+  {
+    "id": 11,
+    "question": "Just to note: Luke eats 3 hot dogs. Thomas eats twice as many. John eats half of Thomas\u2019s count. How many more hot dogs does John eat than Luke?",
+    "gold": "0",
+    "pred": "5",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Just to note: Luke eats 3 hot dogs. Thomas eats twice as many. John eats half of Thomas\u2019s count. How many more hot dogs does John eat than Luke? Let's think step by step:\n1. 2 + 2 = 5.\n2. 5 + 2 = 6.\n3. 6 + 2 = 9.\n4. 9 - 2 = <<9-2=7>>7.\n5. 7 - 2 = <<7-2=5>>5.\n6. 5 = <<5=5>>5.\n7. 5 = <<5=5>>5.\n8. 5 = <<5=5>>5.\n9. 5 ="
+  },
+  {
+    "id": 12,
+    "question": "By the way, a class of 240 students splits into 3 groups: 2 equal, one smaller by 15 students. How many are in the smallest group?",
+    "gold": "70",
+    "pred": "13",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: By the way, a class of 240 students splits into 3 groups: 2 equal, one smaller by 15 students. How many are in the smallest group? Let's think step by step:\n1. 2 students.\n2. 15 students.\n3. 15 - 2 = <<15-2=13>>13 students.\n4. 13 students.\n5. 13 students.\n6. 13 students.\n7. 13 students.\n8. 13 students.\n9. 13 students.\n10. 13 students.\n11. 13 students.\n12. 13 students.\n13. 13 students.\n14. 13 students.\n15. 13 students"
+  },
+  {
+    "id": 13,
+    "question": "Reminder! Millie spends $24 on supplies to make 4 lemonade pitchers (12 cups each), sells at $1.50 per cup, averages 6 cups per hour. What\u2019s her profit per hour if she sells out?",
+    "gold": "4.5",
+    "pred": "96",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Reminder! Millie spends $24 on supplies to make 4 lemonade pitchers (12 cups each), sells at $1.50 per cup, averages 6 cups per hour. What\u2019s her profit per hour if she sells out? Let's think step by step:\n1. Millie spends $24 on supplies to make 4 lemonade pitchers (12 cups each), sells at $1.50 per cup, averages 6 cups per hour.\n2. 4 x 6 = $<<24*6=144>>144.\n3. 4 x 12 = $<<4*12=48>>48.\n4. 4 x 24 = $<<4*24=96>>96.\n5. 4 x 96 = $<<4*96="
+  },
+  {
+    "id": 14,
+    "question": "FYI \u2013 Gabriel\u2019s media player holds 120 songs; he has 30. Luri has 2.5x as many songs. How many fewer songs can Luri add compared to Gabriel?",
+    "gold": "15",
+    "pred": "54",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: FYI \u2013 Gabriel\u2019s media player holds 120 songs; he has 30. Luri has 2.5x as many songs. How many fewer songs can Luri add compared to Gabriel? Let's think step by step:\n1. Luri has 2.5x as many songs.\n2. Gabriel has 30 songs.\n3. Luri + Gabriel = 30 + 2.5x = <<30+2.5*2.5=54>>54 songs.\n4. Luri - 54 = <<54=54>>54 songs.\n5. Luri = <<54=54>>54 songs.\n#### 54"
+  },
+  {
+    "id": 15,
+    "question": "Heads-up: Southlandia\u2019s highest temp: -40\u00b0F. Northlandia: 28\u00b0F. Midlandia: -2\u00b0F. What\u2019s the average high temp?",
+    "gold": "-4.7",
+    "pred": "28",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Heads-up: Southlandia\u2019s highest temp: -40\u00b0F. Northlandia: 28\u00b0F. Midlandia: -2\u00b0F. What\u2019s the average high temp? Let's think step by step:\n1. Northlandia: 28\u00b0F.\n2.Midlandia: 28\u00b0F.\n3. Southlandia: 28\u00b0F.\n4. Northlandia: 28\u00b0F.\n5. Northlandia: 28\u00b0F.\n6. Southlandia: 28\u00b0F.\n7. Northlandia: 28\u00b0F.\n8. Southlandia: 28\u00b0F.\n9. Northlandia: 28\u00b0F.\n"
+  },
+  {
+    "id": 16,
+    "question": "Quick note: Sally buys a $9 pizza and a family-size pizza costing 2.5x more. How much does she spend total?",
+    "gold": "31.5",
+    "pred": "23",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Quick note: Sally buys a $9 pizza and a family-size pizza costing 2.5x more. How much does she spend total? Let's think step by step:\n1. Pizza cost $9.\n2. Pizza cost $9 + $2.5 = $<<9+2.5=15>>15.\n3. Pizza cost $15 + $2.5 = $<<15+2.5=19>>19.\n4. Pizza cost $19 + $2.5 = $<<19+2.5=23>>23.\n5. Pizza cost $23 + $2.5 = $<<23+"
+  },
+  {
+    "id": 17,
+    "question": "FYI \u2013 Jamaal lifts a 10-pound weight, increases by 40%, then drops 2 pounds. What\u2019s the final weight he lifts?",
+    "gold": "12",
+    "pred": "5",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: FYI \u2013 Jamaal lifts a 10-pound weight, increases by 40%, then drops 2 pounds. What\u2019s the final weight he lifts? Let's think step by step:\n1. 40% = 20%.\n2. 40% = 20%.\n3. 20% = 10.\n4. 10 - 4 = 5.\n5. 5 - 2 = 3.\n6. 3 - 2 = 1.\n7. 1 = 1.\n8. 1 = 0.\n9. 0 = 1.\n10. 1 = 2.\n11. 2 = 3.\n12. 2 = 4.\n13. 4 = 5."
+  },
+  {
+    "id": 18,
+    "question": "By the way, Prince the butcher sells 20 kg/hour, works 8 hours/day. Bill\u2019s bull weighs 960 kg. How many days to sell all the meat?",
+    "gold": "6",
+    "pred": "6",
+    "correct": true,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: By the way, Prince the butcher sells 20 kg/hour, works 8 hours/day. Bill\u2019s bull weighs 960 kg. How many days to sell all the meat? Let's think step by step:\n1. Bill\u2019s bull weighs 960 kg.\n2. Bill\u2019s butcher sells 20 kg/hour, works 8 hours/day.\n3. Bill\u2019s butcher sells 20 kg/hour, works 8 hours/day.\n4. Bill\u2019s butcher sells 20 kg/hour, works 8 hours/day.\n5. Bill\u2019s butcher sells 20 kg/hour, works 8 hours/day.\n6. Bill\u2019s butcher"
+  },
+  {
+    "id": 19,
+    "question": "Just to note: Sally\u2019s account started at $250, now at $470. Her weekly wage is $300. How many dollars were withheld?",
+    "gold": "80",
+    "pred": "150",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Just to note: Sally\u2019s account started at $250, now at $470. Her weekly wage is $300. How many dollars were withheld? Let's think step by step:\n1. Sally\u2019s wage is $300.\n2. Sally\u2019s salary is $250.\n3. Sally\u2019s salary is $470.\n4. Sally\u2019s salary is $300 - $470 = $<<300-470=150>>150.\n#### 150"
+  },
+  {
+    "id": 20,
+    "question": "FYI \u2013 Catherine visits the store: 1 kilo of apples for $5, 3 kilos of bananas at $2 per kilo, 2 kilos of oranges at $4 per kilo. How much does she pay in total?",
+    "gold": "21",
+    "pred": "2",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: FYI \u2013 Catherine visits the store: 1 kilo of apples for $5, 3 kilos of bananas at $2 per kilo, 2 kilos of oranges at $4 per kilo. How much does she pay in total? Let's think step by step:\n1. 5 kilos of bananas = $<<5*2=10>>10.\n2. 2 kilos of oranges = $<<2*2=4>>4.\n3. 2 kilos of oranges = $<<2*2=4>>4.\n4. 2 kilos of oranges = $<<2*4=8>>8.\n5. 2 kilos of oranges = $<<2*4=8>>8.\n6. 2 kil"
+  },
+  {
+    "id": 21,
+    "question": "By the way, Alex tutors 3 weeks at $15 per day. How much does she earn in total?",
+    "gold": "315",
+    "pred": "6",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: By the way, Alex tutors 3 weeks at $15 per day. How much does she earn in total? Let's think step by step:\n1. Alex tutors 3 weeks at $15 per day.\n2. 3 x 3 = $<<3*3=9>>9.\n3. 9 - 2 = $<<9-2=7>>7.\n4. 7 - 2 = $<<7-2=5>>5.\n5. 5 + 5 = $<<5+5=10>>10.\n6. 10 - 4 = $<<10-4=6>>6.\n"
+  },
+  {
+    "id": 22,
+    "question": "Quick note: Greg finds $25 walking with his 4 younger siblings. How much does each person get if they split it equally?",
+    "gold": "5",
+    "pred": "5",
+    "correct": true,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Quick note: Greg finds $25 walking with his 4 younger siblings. How much does each person get if they split it equally? Let's think step by step:\n1. 4 siblings.\n2. 4 siblings each get $25.\n3. 4 siblings each get $25/4 = $<<4/2=2>>2.\n4 siblings each get $25/4 = $<<4/4=2>>2.\n5 siblings each get $25/4 = $<<25/4=5>>5.\n#### 5"
+  },
+  {
+    "id": 23,
+    "question": "Reminder! In a student election, candidate A gets 25%, B gets 50% more than A, the rest go to C. If there are 120 voters, how many votes does C get?",
+    "gold": "30",
+    "pred": "120",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Reminder! In a student election, candidate A gets 25%, B gets 50% more than A, the rest go to C. If there are 120 voters, how many votes does C get? Let's think step by step:\n1. C gets 25% more than A.\n2. C gets 50% more than B.\n3. C gets 120 votes.\n4. C gets 120 votes.\n5. C gets 120 votes.\n6. C gets 120 votes.\n7. C gets 120 votes.\n8. C gets 120 votes.\n9. C gets 120 votes.\n10. C gets 120 votes.\n11. C gets 120 votes.\n12. C gets 120"
+  },
+  {
+    "id": 24,
+    "question": "Heads-up! Tanya earns $18 per hour plus $6 bonus if she teaches over 3 classes. Monday: 4 classes, 6 hours. Wednesday: 2 classes, 3 hours. Total earnings?",
+    "gold": "138",
+    "pred": "6",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Heads-up! Tanya earns $18 per hour plus $6 bonus if she teaches over 3 classes. Monday: 4 classes, 6 hours. Wednesday: 2 classes, 3 hours. Total earnings? Let's think step by step:\n1. Tanya earns $18 per hour plus $6 bonus if she teaches over 3 classes.\n2. Tanya earns $18 + $6 = $<<18+6=24>>24.\n3. Tanya earns $24 + $6 = $<<24+6=30>>30.\n4. Tanya earns $30 + $6 = $<<30+6=36>>36.\n5. Tanya earns $36 + $6 = $"
+  },
+  {
+    "id": 25,
+    "question": "FYI \u2013 Jack and 3 friends play at a new arcade. Jack: 1 quarter for 15 minutes. Two friends play half as long, one plays 1.5x longer. They play 3 hours. Total cost?",
+    "gold": "12",
+    "pred": "3",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: FYI \u2013 Jack and 3 friends play at a new arcade. Jack: 1 quarter for 15 minutes. Two friends play half as long, one plays 1.5x longer. They play 3 hours. Total cost? Let's think step by step:\n1. Jack spends 15 minutes.\n2. Jack spends 1.5 times longer than Jack.\n3. Jack spends 1.5 times longer than Jack.\n4. Jack spends 3 times longer than Jack.\n5. Jack spends 3 times longer than Jack.\n6. Jack spends 3 times longer than Jack.\n7. Jack spends 3 times longer than Jack.\n8. Jack spends 3 times longer than Jack.\n9. Jack spends 3 times longer than Jack."
+  },
+  {
+    "id": 26,
+    "question": "By the way, Daisy buys 6 pounds of potatoes, sweet potatoes twice that, carrots 4 pounds less than sweet potatoes. How many pounds of carrots?",
+    "gold": "8",
+    "pred": "4",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: By the way, Daisy buys 6 pounds of potatoes, sweet potatoes twice that, carrots 4 pounds less than sweet potatoes. How many pounds of carrots? Let's think step by step:\n1. Sweet potatoes = 6 * 2 = <<6*2=12>>12 pounds.\n2. Carrots = 12 - 4 = <<12-4=8>>8 pounds.\n3. Sweet potatoes = 8 + 4 = <<8+4=12>>12 pounds.\n4. Carrots = 12 - 6 = <<12-6=4>>4 pounds.\n5. Daisy buys 6 pounds of potatoes, sweet potatoes twice that, carrots 4 pounds less than"
+  },
+  {
+    "id": 27,
+    "question": "Quick reminder: 7 bottles of soda cost $24, 4 bottles of water cost $10. David wants 3 sodas and 2 waters. Total cost?",
+    "gold": "16",
+    "pred": "2",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Quick reminder: 7 bottles of soda cost $24, 4 bottles of water cost $10. David wants 3 sodas and 2 waters. Total cost? Let's think step by step:\n1. 3 sodas + 2 waters = $<<3+2=5>>5.\n2. 4 bottles of soda + 4 bottles of water = $<<4+4=8>>8.\n3. 3 bottles of soda + 2 bottles of water = $<<3+2=5>>5.\n4. 4 bottles of soda + 2 bottles of water = $<<4+2=6>>6.\n5. 4 bottles of soda + 2 bottles of"
+  },
+  {
+    "id": 28,
+    "question": "FYI \u2013 Lani bakes 60 cookies, eats 6, and splits the rest equally into 6 jars. How many cookies per jar?",
+    "gold": "9",
+    "pred": "1",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: FYI \u2013 Lani bakes 60 cookies, eats 6, and splits the rest equally into 6 jars. How many cookies per jar? Let's think step by step:\n1. 60 cookies / 6 = <<60/6=10>>10 cookies per jar.\n2. 10 jars / 6 = <<10/6=2>>2 jars per jar.\n3. 2 jars / 6 = <<2/6=2>>2 jars per jar.\n4. 2 jars / 6 = <<2/6=1>>1 jar per jar.\n5. 1 jar / 6 = <<1/6=1>>1 jar per jar."
+  },
+  {
+    "id": 29,
+    "question": "By the way, James walks to the store 6 miles away, realizes halfway he forgot something and returns. Walking speed: 3 mph. How long to reach the store?",
+    "gold": "2",
+    "pred": "2",
+    "correct": true,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: By the way, James walks to the store 6 miles away, realizes halfway he forgot something and returns. Walking speed: 3 mph. How long to reach the store? Let's think step by step:\n1. James walks 6 miles.\n2. James walks 6 m.\n3. 6 m - 6 m = <<6-6=2>>2 miles.\n4. 2 m = <<2=2>>2 miles.\n5. 2 m = <<2=2>>2 miles.\n6. 2 m = <<2=2>>2 miles.\n7. 2 m = <<2=2>>2 miles.\n8. 2 m = <<2="
+  },
+  {
+    "id": 30,
+    "question": "Quick note: A farmer bales 6 bales/hour, truck picks up 4 bales/hour. Over an 8-hour day, how many bales remain in the field?",
+    "gold": "16",
+    "pred": "384",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Quick note: A farmer bales 6 bales/hour, truck picks up 4 bales/hour. Over an 8-hour day, how many bales remain in the field? Let's think step by step:\n1. 6 bales/hour.\n2. 4 bales/hour.\n3. 8 hours/day.\n4. 6 \u00d7 4 = <<6*4=24>>24 bales.\n5. 24 \u00d7 24 = <<24*24=384>>384 bales.\n#### 384"
+  },
+  {
+    "id": 31,
+    "question": "FYI \u2013 Ellen shakes 4 of 15 soda cans. She takes 1 unshaken, brother takes 1 shaken and 3 unshaken. What\u2019s the chance Ellen\u2019s friend picks a shaken can (percent)?",
+    "gold": "30",
+    "pred": "4",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: FYI \u2013 Ellen shakes 4 of 15 soda cans. She takes 1 unshaken, brother takes 1 shaken and 3 unshaken. What\u2019s the chance Ellen\u2019s friend picks a shaken can (percent)? Let's think step by step:\n1. Ellen shakes 4 of 15 soda cans.\n2. 5 people take 1 unshaken, 3 people take 1 shaken and 3 unshaken.\n3. Ellen\u2019s friend picks a shaken can (percent).\n#### 4"
+  },
+  {
+    "id": 32,
+    "question": "Heads-up! Elijah\u2019s dogs: one-third and half the weight of Kory\u2019s 66-pound dog. Total combined weight?",
+    "gold": "143",
+    "pred": "15",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Heads-up! Elijah\u2019s dogs: one-third and half the weight of Kory\u2019s 66-pound dog. Total combined weight? Let's think step by step:\n1. Kory\u2019s dog weighs 66/3 = <<66/3=18>>18 pounds.\n2. Elijah\u2019s dog weighs 18/2 = <<18/2=9>>9 pounds.\n3. Elijah\u2019s dog weighs 9 + 6 = <<9+6=15>>15 pounds.\n#### 15"
+  },
+  {
+    "id": 33,
+    "question": "By the way, Bernie\u2019s 4 dogs need walks: 2, 5, and 4 miles. Average: 4 miles. How many miles does the last dog need?",
+    "gold": "5",
+    "pred": "40",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: By the way, Bernie\u2019s 4 dogs need walks: 2, 5, and 4 miles. Average: 4 miles. How many miles does the last dog need? Let's think step by step:\n1. 2 dogs.\n2. 5 dogs.\n3. 4 dogs.\n4. 4 + 5 = 9.\n5. 4 + 5 = 10.\n6. 4 + 5 = 12.\n7. 4 + 5 = 15.\n8. 4 + 5 = 18.\n9. 4 + 5 = 24.\n10. 4 + 5 = 30.\n11. 4 + 5 = 35.\n12. 4 + 5 = 40.\n"
+  },
+  {
+    "id": 34,
+    "question": "FYI \u2013 John mortgages his $300,000 house, gets a loan for 50%. He uses 60% to pay debts. How much is left over?",
+    "gold": "000",
+    "pred": "1000",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: FYI \u2013 John mortgages his $300,000 house, gets a loan for 50%. He uses 60% to pay debts. How much is left over? Let's think step by step:\n1. Mortgage loan = $300,000.\n2. Mortgage loan = $300,000 - $50,000 = $<<300000-50000=20000>>20000.\n3. $20000 - $20000 = $<<20000-20000=1000>>1000.\n4. $1000 - $1000 = $<<1000-1000=1000>>1000.\n5. $1000 - $1000 = $<<1000-1000=1000>>"
+  },
+  {
+    "id": 35,
+    "question": "By the way, it rained 3 inches on Monday and is expected to rain 1 inch more than twice Monday\u2019s total on Tuesday. How many inches of rain on Tuesday?",
+    "gold": "7",
+    "pred": "8",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: By the way, it rained 3 inches on Monday and is expected to rain 1 inch more than twice Monday\u2019s total on Tuesday. How many inches of rain on Tuesday? Let's think step by step:\n1. 3 inches.\n2. 6 inches.\n3. 6 + 1 = <<6+1=7>>7 inches.\n4. 7 - 3 = <<7-3=5>>5 inches.\n5. 5 + 1 = <<5+1=6>>6 inches.\n6. 6 - 3 = <<6-3=3>>3 inches.\n7. 3 - 1 = <<3-1=2>>2 inches.\n8."
+  },
+  {
+    "id": 36,
+    "question": "Quick note: John invites 25 people to a party, each will eat 3 hot dogs. He already has 5 hot dogs. Hot dogs come in packs of 8, $3 per pack. How much does he need to spend?",
+    "gold": "24",
+    "pred": "28",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: Quick note: John invites 25 people to a party, each will eat 3 hot dogs. He already has 5 hot dogs. Hot dogs come in packs of 8, $3 per pack. How much does he need to spend? Let's think step by step:\n1. 25 people.\n2. 5 packs of 8.\n3. 5 x 8 = <<5*8=40>>40.\n4. 40 - 4 = <<40-4=36>>36.\n5. 36 - 6 = <<36-6=28>>28.\n#### 28"
+  },
+  {
+    "id": 37,
+    "question": "FYI \u2013 Dr. Grumpus tells Igor to gather 20 test tubes, 8 beakers, 16 Petri dishes. Igor accidentally gets half as many test tubes, two more Petri dishes, correct beakers, but loses some. Total items on bench: 35. How many beakers were lost?",
+    "gold": "3",
+    "pred": "0.5",
+    "correct": false,
+    "full": "Q: If you have 2 apples and pick 3 more, how many do you have? Let's think step by step:\n1. Start with 2 apples.\n2. Pick 3 more.\n3. 2 + 3 = 5.\nAnswer: 5\n\nQ: A bat costs 1 dollar more than a ball. The ball costs 1 dollar. How much is the bat? Let's think step by step:\n1. Ball costs $1.\n2. Bat costs $1 + $1 = $2.\nAnswer: 2\n\nQ: There are 4 cars, each carrying 3 people. How many people total? Let's think step by step:\n1. 4 cars.\n2. Each has 3 people.\n3. 4 \u00d7 3 = 12.\nAnswer: 12\n\nQ: You buy 5 books then give away 2. How many books remain? Let's think step by step:\n1. Bought 5 books.\n2. Gave away 2.\n3. 5 - 2 = 3.\nAnswer: 3\n\nQ: A rope is 10 meters long. You cut off 4 meters. How long is the remainder? Let's think step by step:\n1. Rope length = 10 m.\n2. Cut off 4 m.\n3. 10 - 4 = 6.\nAnswer: 6\n\nQ: FYI \u2013 Dr. Grumpus tells Igor to gather 20 test tubes, 8 beakers, 16 Petri dishes. Igor accidentally gets half as many test tubes, two more Petri dishes, correct beakers, but loses some. Total items on bench: 35. How many beakers were lost? Let's think step by step:\n1. 20 test tubes.\n2. 8 beakers.\n3. 16 petri dishes.\n4. 20 + 8 + 16 = <<20+8+16=44>>44.\n5. 20 - 4 = <<20-4=16>>16.\n6. 20 - 2 = <<20-2=18>>18.\n7. 20 - 1 = <<20-1=18>>18.\n8. 20 - 0.5 = <<"
+  }
+]

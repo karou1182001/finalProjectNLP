@@ -1,0 +1,231 @@
+[
+  {
+    "question": "FYI – here’s a little twist: Gunter is counting jelly beans in a jar. One friend says 100. Another says 30 more than half of the first guess. A third says 30% more than the first one. What’s their average guess? Let’s do the math carefully.",
+    "gold": "110",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, here’s something interesting! A mechanic charges $70 per truck tire and $50 per car tire. On Thursday, they fix 5 truck tires and 3 car tires. On Friday, they fix 10 car tires only. How much more money was earned on the higher-revenue day?",
+    "gold": "50",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note before we jump in: Vincent can buy flower packs — 4 for $3 or 2 for $1.20. How much does he save if he buys 24 flowers at the better price? Think it through!",
+    "gold": "9",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a heads-up: Gene is sewing a quilt. He’s been on 5 vacations per year since he was 22, and now he’s 34. Each trip gives one shirt for the quilt. How many quilt blocks does Gene have? Let’s calculate that!",
+    "gold": "60",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Friendly reminder! Harry slept 10 hours last night. James slept only 2/3 of Harry’s time. How many more hours did Harry sleep than James?",
+    "gold": "4",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick heads-up: John has 3 boxes, each 7 x 8 x 6 inches. The walls are 1 inch thick. What is the total inner volume of all 3 boxes?",
+    "gold": "240",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here’s a fun one: Charlie has four times as many Facebook friends as Dorothy. James has five times Dorothy’s count. If Charlie has 16 friends, how many friends does James have?",
+    "gold": "20",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, Carl buys 12 packs of cookies, each with 8 cookies, at $0.15 per cookie. How much change does Carl get from a $20 bill?",
+    "gold": "5.60",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note before we continue: Chad orders a burrito at $7.50, adds $2.50 for extra meat, $1.50 for cheese, $1.50 for avocado, and two sauces at $0.30 each. Meal upgrade: $3.50. He uses a $6.00 gift card. How much does he still owe?",
+    "gold": "11.60",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Heads-up! Dax visits the farm and finds half as many bugs as 60 ants. What’s the total insect count?",
+    "gold": "90",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – a 48-page tabloid folds so that page 1 is left back, page 2 left front, page 48 right back, and page 47 right front. How many sheets of paper are used?",
+    "gold": "12",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just to note: Luke eats 3 hot dogs. Thomas eats twice as many. John eats half of Thomas’s count. How many more hot dogs does John eat than Luke?",
+    "gold": "0",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, a class of 240 students splits into 3 groups: 2 equal, one smaller by 15 students. How many are in the smallest group?",
+    "gold": "70",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Reminder! Millie spends $24 on supplies to make 4 lemonade pitchers (12 cups each), sells at $1.50 per cup, averages 6 cups per hour. What’s her profit per hour if she sells out?",
+    "gold": "4.5",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – Gabriel’s media player holds 120 songs; he has 30. Luri has 2.5x as many songs. How many fewer songs can Luri add compared to Gabriel?",
+    "gold": "15",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Heads-up: Southlandia’s highest temp: -40°F. Northlandia: 28°F. Midlandia: -2°F. What’s the average high temp?",
+    "gold": "-4.7",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note: Sally buys a $9 pizza and a family-size pizza costing 2.5x more. How much does she spend total?",
+    "gold": "31.5",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – Jamaal lifts a 10-pound weight, increases by 40%, then drops 2 pounds. What’s the final weight he lifts?",
+    "gold": "12",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, Prince the butcher sells 20 kg/hour, works 8 hours/day. Bill’s bull weighs 960 kg. How many days to sell all the meat?",
+    "gold": "6",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just to note: Sally’s account started at $250, now at $470. Her weekly wage is $300. How many dollars were withheld?",
+    "gold": "80",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – Catherine visits the store: 1 kilo of apples for $5, 3 kilos of bananas at $2 per kilo, 2 kilos of oranges at $4 per kilo. How much does she pay in total?",
+    "gold": "21",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, Alex tutors 3 weeks at $15 per day. How much does she earn in total?",
+    "gold": "315",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note: Greg finds $25 walking with his 4 younger siblings. How much does each person get if they split it equally?",
+    "gold": "5",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Reminder! In a student election, candidate A gets 25%, B gets 50% more than A, the rest go to C. If there are 120 voters, how many votes does C get?",
+    "gold": "30",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Heads-up! Tanya earns $18 per hour plus $6 bonus if she teaches over 3 classes. Monday: 4 classes, 6 hours. Wednesday: 2 classes, 3 hours. Total earnings?",
+    "gold": "138",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – Jack and 3 friends play at a new arcade. Jack: 1 quarter for 15 minutes. Two friends play half as long, one plays 1.5x longer. They play 3 hours. Total cost?",
+    "gold": "12",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, Daisy buys 6 pounds of potatoes, sweet potatoes twice that, carrots 4 pounds less than sweet potatoes. How many pounds of carrots?",
+    "gold": "8",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick reminder: 7 bottles of soda cost $24, 4 bottles of water cost $10. David wants 3 sodas and 2 waters. Total cost?",
+    "gold": "16",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – Lani bakes 60 cookies, eats 6, and splits the rest equally into 6 jars. How many cookies per jar?",
+    "gold": "9",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, James walks to the store 6 miles away, realizes halfway he forgot something and returns. Walking speed: 3 mph. How long to reach the store?",
+    "gold": "2",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note: A farmer bales 6 bales/hour, truck picks up 4 bales/hour. Over an 8-hour day, how many bales remain in the field?",
+    "gold": "16",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – Ellen shakes 4 of 15 soda cans. She takes 1 unshaken, brother takes 1 shaken and 3 unshaken. What’s the chance Ellen’s friend picks a shaken can (percent)?",
+    "gold": "30",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Heads-up! Elijah’s dogs: one-third and half the weight of Kory’s 66-pound dog. Total combined weight?",
+    "gold": "143",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, Bernie’s 4 dogs need walks: 2, 5, and 4 miles. Average: 4 miles. How many miles does the last dog need?",
+    "gold": "5",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – John mortgages his $300,000 house, gets a loan for 50%. He uses 60% to pay debts. How much is left over?",
+    "gold": "60,000",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, it rained 3 inches on Monday and is expected to rain 1 inch more than twice Monday’s total on Tuesday. How many inches of rain on Tuesday?",
+    "gold": "7",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note: John invites 25 people to a party, each will eat 3 hot dogs. He already has 5 hot dogs. Hot dogs come in packs of 8, $3 per pack. How much does he need to spend?",
+    "gold": "24",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – Dr. Grumpus tells Igor to gather 20 test tubes, 8 beakers, 16 Petri dishes. Igor accidentally gets half as many test tubes, two more Petri dishes, correct beakers, but loses some. Total items on bench: 35. How many beakers were lost?",
+    "gold": "3",
+    "pred": "",
+    "correct": ""
+  }
+
+]

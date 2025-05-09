@@ -1,0 +1,602 @@
+[
+  {
+    "id": 0,
+    "question": "FYI \u2013 here\u2019s a little twist: A robe takes 3 bolts of blue fiber and half that much white fiber. How many bolts in total does it take? Let\u2019s do the math carefully.",
+    "gold": "4.5",
+    "pred": "7",
+    "correct": false,
+    "full": "FYI \u2013 here\u2019s a little twist: A robe takes 3 bolts of blue fiber and half that much white fiber. How many bolts in total does it take? Let\u2019s do the math carefully. Let's think step by step: 3 bolts of blue + 1 bolt of white = <<3+1=4>>4 bolts of blue and white.\nSo the total number of bolts is 4 bolts of blue + 3 bolts of white = <<4+3=7>>7 bolts.\n#### 7"
+  },
+  {
+    "id": 1,
+    "question": "By the way, here\u2019s something interesting! John takes care of 12 dogs, each needing 0.75 hours a day. How many hours a week does he spend taking care of dogs? Think it through!",
+    "gold": "63",
+    "pred": "126",
+    "correct": false,
+    "full": "By the way, here\u2019s something interesting! John takes care of 12 dogs, each needing 0.75 hours a day. How many hours a week does he spend taking care of dogs? Think it through! Let's think step by step: 12 dogs * 0.75 hours/dog = <<12*0.75=18>>18 hours\nSo John spends 18 hours/day * 7 days/week = <<18*7=126>>126 hours/week taking care of dogs.\n#### 126"
+  },
+  {
+    "id": 2,
+    "question": "Quick note before we jump in: Dana can run five times faster than she walks, and skip at half her running speed. If skipping speed is 4 mph, how many miles can she cover in eight hours, spending one-third running and two-thirds walking?",
+    "gold": "32",
+    "pred": "2",
+    "correct": false,
+    "full": "Quick note before we jump in: Dana can run five times faster than she walks, and skip at half her running speed. If skipping speed is 4 mph, how many miles can she cover in eight hours, spending one-third running and two-thirds walking? Let's think step by step: Dana runs 5 * 4 = <<5*4=20>>20 mph.\nShe skips at half her running speed, so she skips at (1/2) * 4 = <<(1/2)*4=2>>2 mph.\nIn eight hours, Dana can run 20 * 8 = <<20*8=160>>160 mph.\nShe can skip at 2 mph, so she can skip at (2/2) * 4 = <<(2/2"
+  },
+  {
+    "id": 3,
+    "question": "Just a heads-up: Raymond does two-thirds as much laundry as Sarah, who does 3 times David\u2019s amount. If Sarah does 300 pounds, what\u2019s the difference between Raymond and David\u2019s loads?",
+    "gold": "100",
+    "pred": "1300",
+    "correct": false,
+    "full": "Just a heads-up: Raymond does two-thirds as much laundry as Sarah, who does 3 times David\u2019s amount. If Sarah does 300 pounds, what\u2019s the difference between Raymond and David\u2019s loads? Let's think step by step: Sarah does 3 * 300 = <<3*300=900>>900 pounds of laundry.\nRaymond does 2 * 900 = <<2*900=1800>>1800 pounds of laundry.\nThe difference between their loads is 1800 - 300 = <<1800-300=1300>>1300 pounds.\n#### 1300"
+  },
+  {
+    "id": 4,
+    "question": "Friendly reminder! Dan plants 4 rose bushes, each with 30 roses, and each rose has 9 thorns. How many thorns total?",
+    "gold": "1080",
+    "pred": "9",
+    "correct": false,
+    "full": "Friendly reminder! Dan plants 4 rose bushes, each with 30 roses, and each rose has 9 thorns. How many thorns total? Let's think step by step: 4 roses * 30 roses/roosee = <<4*30=120>>120 roses.\nThen, we add the number of roses from each type of bush: 120 roses + 9 roses = <<120+9=129>>129 roses.\nThen, we divide the total number of roses by the number of roses per bush to find the number of thorns: 129 roses / 30 roses/bush = <<129/30=9>>9 thorns.\n#### 9"
+  },
+  {
+    "id": 5,
+    "question": "Quick heads-up: Greg\u2019s alarm rings 5 times first, 2x longer second, and half that third. How many total rings?",
+    "gold": "20",
+    "pred": "13",
+    "correct": false,
+    "full": "Quick heads-up: Greg\u2019s alarm rings 5 times first, 2x longer second, and half that third. How many total rings? Let's think step by step: 5 + 2x = <<5+2x=8>>8\n8/2 = <<8/2=4>>4\n8/3 = <<8/3=4>>4\nTotal rings: 5 + 2x + 4 = <<5+2x+4=13>>13\n#### 13"
+  },
+  {
+    "id": 6,
+    "question": "FYI \u2013 here\u2019s a fun one: John buys 3 pairs of shoes per child for 4 kids; each pair costs $70. What\u2019s the total spent?",
+    "gold": "840",
+    "pred": "1400",
+    "correct": false,
+    "full": "FYI \u2013 here\u2019s a fun one: John buys 3 pairs of shoes per child for 4 kids; each pair costs $70. What\u2019s the total spent? Let's think step by step: John buys 3 pairs of shoes per child * 4 kids = <<3*4=12>>12 pairs of shoes.\nThe total cost of the shoes is 12 * $70 = $<<12*70=1400>>1400.\n#### 1400"
+  },
+  {
+    "id": 7,
+    "question": "By the way, Tom gets 5 car washes a month at $18 each. How much does he pay in a year?",
+    "gold": "1080",
+    "pred": "1080",
+    "correct": true,
+    "full": "By the way, Tom gets 5 car washes a month at $18 each. How much does he pay in a year? Let's think step by step: $18/carwash * 5 car washes = $<<18*5=90>>90/month\nSo Tom pays $90/month * 12 months/year = $<<90*12=1080>>1080/year\n#### 1080"
+  },
+  {
+    "id": 8,
+    "question": "Quick note before we continue: Jordan plays games 3 hours/day. If he worked those hours at $12/hour, how much would he make in a week?",
+    "gold": "252",
+    "pred": "540",
+    "correct": false,
+    "full": "Quick note before we continue: Jordan plays games 3 hours/day. If he worked those hours at $12/hour, how much would he make in a week? Let's think step by step: Jordan earns $12/hour * 3 hours/day = $<<12*3=36>>36/day.\nWe know that he works 3 hours/day * 7 days/week = <<3*7=21>>21 hours/week.\nWe can substitute the 21 hours/week figure into the equation $36/day = $<<36=36>>36/week.\nWe get $36/week * 21 hours/week = $<<36*21=540"
+  },
+  {
+    "id": 9,
+    "question": "Heads-up! Carl buys 8 packs of cookies (7 each) at $0.15 per cookie. How much change from a $15 bill?",
+    "gold": "6.60",
+    "pred": "11",
+    "correct": false,
+    "full": "Heads-up! Carl buys 8 packs of cookies (7 each) at $0.15 per cookie. How much change from a $15 bill? Let's think step by step: $15 = $<<15=15>>15\n8 packs of cookies cost $0.15 x 8 = $<<0.15*8=4.50>>4.50.\nSo Carl gets $15 - $4.50 = $<<15-4.5=11>>11 change.\n#### 11"
+  },
+  {
+    "id": 10,
+    "question": "FYI \u2013 Juan and Carlos make lemonade: $4 lemons, $3 sugar per gallon; 24 glasses/gallon at $0.60 each. If profit is $40, how much did they spend on lemons?",
+    "gold": "20",
+    "pred": "24",
+    "correct": false,
+    "full": "FYI \u2013 Juan and Carlos make lemonade: $4 lemons, $3 sugar per gallon; 24 glasses/gallon at $0.60 each. If profit is $40, how much did they spend on lemons? Let's think step by step: $4/gallon + $3/gallon = $<<4+3=7>>7/gallon\n24 glasses/gallon * $0.60/glass = $<<24*0.60=12>>12/gallon\n$7/gallon - $12/gallon = $<<7-12=1>>1/gallon\n$1/gallon * 24 glasses/gallon = $<<1*24=24>>24/"
+  },
+  {
+    "id": 11,
+    "question": "Just to note: Lloyd tutors at $12/hour, 6 hours week one, 9 hours week two. Total earnings for two weeks?",
+    "gold": "180",
+    "pred": "252",
+    "correct": false,
+    "full": "Just to note: Lloyd tutors at $12/hour, 6 hours week one, 9 hours week two. Total earnings for two weeks? Let's think step by step: $12/hour * 6 hours = $<<12*6=72>>72/week.\n$9/hour * 9 hours = $<<9*9=63>>63/week.\n$72/week + $63/week = $<<72+63=126>>126/week.\n2 weeks = $126/week * 2 = $<<126*2=252>>252/week.\n#### 252"
+  },
+  {
+    "id": 12,
+    "question": "By the way, Jenna picked two-thirds the apples her mom did. If mom picked 30, how many did they pick together?",
+    "gold": "50",
+    "pred": "50",
+    "correct": true,
+    "full": "By the way, Jenna picked two-thirds the apples her mom did. If mom picked 30, how many did they pick together? Let's think step by step: Jenna picked 2/3*30 = <<2/3*30=20>>20 apples.\nTogether, they picked 30+20 = <<30+20=50>>50 apples.\n#### 50"
+  },
+  {
+    "id": 13,
+    "question": "Reminder! Neighbors prank Sue: 20 flamingos Friday, half painted white Saturday, +20 pink Sunday. At noon Sunday, how many more pink than white flamingos?",
+    "gold": "30",
+    "pred": "10",
+    "correct": false,
+    "full": "Reminder! Neighbors prank Sue: 20 flamingos Friday, half painted white Saturday, +20 pink Sunday. At noon Sunday, how many more pink than white flamingos? Let's think step by step: Friday:20 flamingos\nSaturday:20/2=<<20/2=10>>10 flamingos\nSunday:20-10=<<20-10=10>>10 flamingos\n#### 10"
+  },
+  {
+    "id": 14,
+    "question": "FYI \u2013 Carlos rents a canoe at $35/hour for 4 hours; Benji rents a raft at $20/hour for 6 hours. What\u2019s the combined rental cost?",
+    "gold": "290",
+    "pred": "280",
+    "correct": false,
+    "full": "FYI \u2013 Carlos rents a canoe at $35/hour for 4 hours; Benji rents a raft at $20/hour for 6 hours. What\u2019s the combined rental cost? Let's think step by step: $35/hour * 4 hours = $<<35*4=140>>140\n$20/hour * 6 hours = $<<20*6=120>>120\nCombined, the two rent a canoe and raft for $140 + $120 = $<<140+120=280>>280\n#### 280"
+  },
+  {
+    "id": 15,
+    "question": "Quick heads-up: John orders pizza for 25 friends, 3 slices each; pizzas have 10 slices. How many pizzas needed?",
+    "gold": "8",
+    "pred": "85",
+    "correct": false,
+    "full": "Quick heads-up: John orders pizza for 25 friends, 3 slices each; pizzas have 10 slices. How many pizzas needed? Let's think step by step: 25 friends * 3 slices each = <<25*3=75>>75 slices\n75 slices + 10 slices = <<75+10=85>>85 slices\n#### 85"
+  },
+  {
+    "id": 16,
+    "question": "Just to note: A chef buys 5 onion bags at 60 pounds each; onions cost $1.80/pound. Total spent?",
+    "gold": "540",
+    "pred": "920",
+    "correct": false,
+    "full": "Just to note: A chef buys 5 onion bags at 60 pounds each; onions cost $1.80/pound. Total spent? Let's think step by step: 5 bags * 60 pounds/bag = <<5*60=300>>300 pounds\n300 pounds * $1.80/pound = $<<300*1.80=480>>480\nTotal spent: $480 + $300 = $<<480+300=920>>920\n#### 920"
+  },
+  {
+    "id": 17,
+    "question": "FYI \u2013 here\u2019s a little twist: Bill starts on the 5th floor. He rides the elevator up to the floor that\u2019s equal to 3 times his starting floor plus 9. What floor is Bill on now?",
+    "gold": "24",
+    "pred": "49",
+    "correct": false,
+    "full": "FYI \u2013 here\u2019s a little twist: Bill starts on the 5th floor. He rides the elevator up to the floor that\u2019s equal to 3 times his starting floor plus 9. What floor is Bill on now? Let's think step by step: 5 + 9 = <<5+9=14>>14\n3 * 14 + 9 = <<3*14+9=49>>49\nBill is on the 5th floor.\n#### 49"
+  },
+  {
+    "id": 18,
+    "question": "By the way, here\u2019s something fun! A juggler can handle 20 balls. Half are tennis balls, and half of the tennis balls are red. How many red tennis balls are there?",
+    "gold": "5",
+    "pred": "5",
+    "correct": true,
+    "full": "By the way, here\u2019s something fun! A juggler can handle 20 balls. Half are tennis balls, and half of the tennis balls are red. How many red tennis balls are there? Let's think step by step: 20 balls / 2 = <<20/2=10>>10 tennis balls\n10 balls / 2 = <<10/2=5>>5 red tennis balls\n#### 5"
+  },
+  {
+    "id": 19,
+    "question": "Quick note before we jump in: 5 adults and 10 children share 10 packets of chocolate bars. Each packet holds 6 bars. If each adult gets 7 bars and the rest are divided among the kids, how many does each child get?",
+    "gold": "1",
+    "pred": "25",
+    "correct": false,
+    "full": "Quick note before we jump in: 5 adults and 10 children share 10 packets of chocolate bars. Each packet holds 6 bars. If each adult gets 7 bars and the rest are divided among the kids, how many does each child get? Let's think step by step: 5 adults * 7 bars/adult = <<5*7=35>>35 bars\n10 children * 6 bars/child = <<10*6=60>>60 bars\nThe total number of bars is 35 bars + 60 bars = <<35+60=105>>105 bars\nThe children get 105 bars / 6 bars/child = <<105/6=25>>25 bars/child\n#### 25"
+  },
+  {
+    "id": 20,
+    "question": "Just a heads-up: Will buys 18 oranges. He asks his 2 sons to wash as many as their ages: the oldest is 10, the youngest is half that. How many oranges remain unwashed?",
+    "gold": "3",
+    "pred": "2",
+    "correct": false,
+    "full": "Just a heads-up: Will buys 18 oranges. He asks his 2 sons to wash as many as their ages: the oldest is 10, the youngest is half that. How many oranges remain unwashed? Let's think step by step: 10 + 10/2 = <<10+10/2=20>>20\n10 + 20 = <<10+20=30>>30\n30 - 18 = <<30-18=12>>12\n12 - 10 = <<12-10=2>>2\n2 oranges remain unwashed.\n#### 2"
+  },
+  {
+    "id": 21,
+    "question": "Friendly reminder! Annika brought $60 to the fair. She spent half on food, plus $15 on rides. How much money does she have left?",
+    "gold": "15",
+    "pred": "50",
+    "correct": false,
+    "full": "Friendly reminder! Annika brought $60 to the fair. She spent half on food, plus $15 on rides. How much money does she have left? Let's think step by step: food + rides = $60 + 15 = $<<60+15=75>>75\nAnnika spent $60 / 2 = $<<60/2=30>>30 on food.\nSo, Annika has $75 - $30 = $<<75-30=50>>50 left.\n#### 50"
+  },
+  {
+    "id": 22,
+    "question": "Quick heads-up: A magazine costs half the price of a book. The book costs $6. A pen costs $2 less than a magazine. How much is the pen?",
+    "gold": "1",
+    "pred": "7",
+    "correct": false,
+    "full": "Quick heads-up: A magazine costs half the price of a book. The book costs $6. A pen costs $2 less than a magazine. How much is the pen? Let's think step by step: A book costs $6 / 2 = $<<6/2=3>>3.\nA pen costs $3 - $2 = $<<3-2=1>>1.\nSo the pen costs $1 + $6 = $<<1+6=7>>7.\n#### 7"
+  },
+  {
+    "id": 23,
+    "question": "FYI \u2013 here\u2019s a fun one: Luke eats 3 hot dogs. Thomas eats three times more. John eats half of Thomas\u2019s amount. How many more hot dogs does John eat than Luke?",
+    "gold": "1.5",
+    "pred": "2",
+    "correct": false,
+    "full": "FYI \u2013 here\u2019s a fun one: Luke eats 3 hot dogs. Thomas eats three times more. John eats half of Thomas\u2019s amount. How many more hot dogs does John eat than Luke? Let's think step by step: Thomas eats 3 * 3 = <<3*3=9>>9 hot dogs.\nJohn eats 9 / 2 = <<9/2=3>>3 hot dogs.\nJohn eats 3 - 1 = <<3-1=2>>2 more hot dogs than Luke.\n#### 2"
+  },
+  {
+    "id": 24,
+    "question": "By the way, an eraser costs $3 and a pencil costs $4. How much do 5 erasers and 7 pencils cost together?",
+    "gold": "43",
+    "pred": "41",
+    "correct": false,
+    "full": "By the way, an eraser costs $3 and a pencil costs $4. How much do 5 erasers and 7 pencils cost together? Let's think step by step: 5 erasers cost $3 * 5 = $<<3*5=15>>15.\n7 pencils cost $4 * 7 = $<<4*7=28>>28.\nSo, 5 erasers and 7 pencils cost $15 + $28 = $<<15+28=41>>41.\n#### 41"
+  },
+  {
+    "id": 25,
+    "question": "Quick note before we continue: At the carnival, David buys a ride bracelet for $35 (unlimited rides), while Dasha buys tickets at $3 each for 10 rides. How much money does David save compared to Dasha?",
+    "gold": "5",
+    "pred": "12",
+    "correct": false,
+    "full": "Quick note before we continue: At the carnival, David buys a ride bracelet for $35 (unlimited rides), while Dasha buys tickets at $3 each for 10 rides. How much money does David save compared to Dasha? Let's think step by step: David spends $35 + $3 = $<<35+3=38>>38.\nDasha spends $3 x 10 = $<<3*10=30>>30.\nSo, David saves $38 - $30 = $<<38-30=12>>12.\n#### 12"
+  },
+  {
+    "id": 26,
+    "question": "Heads-up! Jenny slices a pizza into 16 pieces. She gives 1/4 to Bill, 1/3 to Mark, and eats 3 herself. How many slices remain?",
+    "gold": "5",
+    "pred": "13",
+    "correct": false,
+    "full": "Heads-up! Jenny slices a pizza into 16 pieces. She gives 1/4 to Bill, 1/3 to Mark, and eats 3 herself. How many slices remain? Let's think step by step: 1/4 + 1/3 + 3 = 16\n4/3 + 3 = 16\n4/2 = 16\n16 - 3 = <<16-3=13>>13\n13 slices remain.\n#### 13"
+  },
+  {
+    "id": 27,
+    "question": "FYI \u2013 Rozanne is making eggnog: she uses 5 dozen eggs from cases plus 4 loose eggs. Each tray holds 6 glasses, and each glass needs 4 eggs. How many trays can she fill?",
+    "gold": "3",
+    "pred": "1",
+    "correct": false,
+    "full": "FYI \u2013 Rozanne is making eggnog: she uses 5 dozen eggs from cases plus 4 loose eggs. Each tray holds 6 glasses, and each glass needs 4 eggs. How many trays can she fill? Let's think step by step: 5 dozen eggs + 4 eggs = <<5+4=9>>9 dozen eggs.\n9 dozen eggs / 6 glasses/tray = <<9/6=1>>1 tray.\n#### 1"
+  },
+  {
+    "id": 28,
+    "question": "Just to note: Ali had $30. Leila gave him half of her $120. How much money does Ali have now?",
+    "gold": "90",
+    "pred": "110",
+    "correct": false,
+    "full": "Just to note: Ali had $30. Leila gave him half of her $120. How much money does Ali have now? Let's think step by step: $120 + $30 = $<<120+30=150>>150\nAli has $150 - $30 = $<<150-30=110>>110\n#### 110"
+  },
+  {
+    "id": 29,
+    "question": "By the way, Mary has 8 jars of sprinkles, each decorates 10 cupcakes. If each baking tray holds 15 cupcakes, how many trays does she need to use all the sprinkles?",
+    "gold": "6",
+    "pred": "8",
+    "correct": false,
+    "full": "By the way, Mary has 8 jars of sprinkles, each decorates 10 cupcakes. If each baking tray holds 15 cupcakes, how many trays does she need to use all the sprinkles? Let's think step by step: Mary needs 8 x 10 = <<8*10=80>>80 sprinkles.\nSo she needs 80/15 = <<80/15=8>>8 trays.\n#### 8"
+  },
+  {
+    "id": 30,
+    "question": "Reminder! Stetson bets Alec he\u2019ll give $12 for each apple he eats. At the orchard, he eats 3/5 of the 50 apples they picked. How much money does Stetson give up?",
+    "gold": "360",
+    "pred": "2",
+    "correct": false,
+    "full": "Reminder! Stetson bets Alec he\u2019ll give $12 for each apple he eats. At the orchard, he eats 3/5 of the 50 apples they picked. How much money does Stetson give up? Let's think step by step: 50 apples / 3/5 = <<50/3/5=10>>10 apples\nStetson gives Alec 12 apples - 10 apples = <<12-10=2>>2 apples\n#### 2"
+  },
+  {
+    "id": 31,
+    "question": "FYI \u2013 here\u2019s a little twist: Jana has 36 puppies. Three-fourths of them are Pomeranians, and half of those are girls. How many girl Pomeranians does Jana have?",
+    "gold": "13",
+    "pred": "9",
+    "correct": false,
+    "full": "FYI \u2013 here\u2019s a little twist: Jana has 36 puppies. Three-fourths of them are Pomeranians, and half of those are girls. How many girl Pomeranians does Jana have? Let's think step by step: 36 puppies / 3/4 = <<36/3/4=18>>18 Pomeranians.\n18 Pomeranians / 2 = <<18/2=9>>9 girl Pomeranians.\n#### 9"
+  },
+  {
+    "id": 32,
+    "question": "By the way, here\u2019s something interesting! Joe throws 30 punches per minute. A match lasts 6 rounds of 4 minutes each. How many punches did he throw?",
+    "gold": "720",
+    "pred": "720",
+    "correct": true,
+    "full": "By the way, here\u2019s something interesting! Joe throws 30 punches per minute. A match lasts 6 rounds of 4 minutes each. How many punches did he throw? Let's think step by step: Joe throws 30 * 4 = <<30*4=120>>120 punches per minute.\nSo he threw 120 * 6 = <<120*6=720>>720 punches in 6 rounds.\n#### 720"
+  },
+  {
+    "id": 33,
+    "question": "Quick note before we jump in: Kelsie bakes three times more cookies than Josh, who makes one-fifth the number Suzanne makes. If Suzanne makes 40 cookies, how many does Kelsie make?",
+    "gold": "24",
+    "pred": "24",
+    "correct": true,
+    "full": "Quick note before we jump in: Kelsie bakes three times more cookies than Josh, who makes one-fifth the number Suzanne makes. If Suzanne makes 40 cookies, how many does Kelsie make? Let's think step by step: Josh makes 40/5 = <<40/5=8>>8 cookies.\nKelsie bakes 3 * 8 = <<3*8=24>>24 cookies.\n#### 24"
+  },
+  {
+    "id": 34,
+    "question": "Just a heads-up: Timothy's locker is 32 cubic inches. Zack\u2019s locker is half that, and Peter's is one-third of Zack\u2019s. What\u2019s Peter\u2019s locker volume in cubic inches?",
+    "gold": "5.3",
+    "pred": "96",
+    "correct": false,
+    "full": "Just a heads-up: Timothy's locker is 32 cubic inches. Zack\u2019s locker is half that, and Peter's is one-third of Zack\u2019s. What\u2019s Peter\u2019s locker volume in cubic inches? Let's think step by step: 32 cubic inches / 2 = <<32/2=16>>16 cubic inches.\n16 cubic inches / 3 = <<16/3=4>>4 cubic inches.\nPeter\u2019s locker is 32 cubic inches * 4 cubic inches = <<32*4=96>>96 cubic inches.\n#### 96"
+  },
+  {
+    "id": 35,
+    "question": "Friendly reminder! Cody and Trevor share 16 sandwiches. Cody eats a quarter, Trevor eats a fifth. How many sandwiches remain?",
+    "gold": "9",
+    "pred": "8",
+    "correct": false,
+    "full": "Friendly reminder! Cody and Trevor share 16 sandwiches. Cody eats a quarter, Trevor eats a fifth. How many sandwiches remain? Let's think step by step: 16 sandwiches / 4 = <<16/4=4>>4 sandwiches.\n4 sandwiches / 5 = <<4/5=2>>2 sandwiches.\n16 sandwiches - 4 sandwiches - 2 sandwiches = <<16-4-2=8>>8 sandwiches.\n#### 8"
+  },
+  {
+    "id": 36,
+    "question": "Quick heads-up: Jerry is twice as old as he was 6 years ago. How old will he be in 4 years?",
+    "gold": "16",
+    "pred": "7",
+    "correct": false,
+    "full": "Quick heads-up: Jerry is twice as old as he was 6 years ago. How old will he be in 4 years? Let's think step by step: 6 years ago Jerry was 6/2 = <<6/2=3>>3 years old.\nSo in 4 years, Jerry will be 3 + 4 = <<3+4=7>>7 years old.\n#### 7"
+  },
+  {
+    "id": 37,
+    "question": "FYI \u2013 here\u2019s a fun one: John builds a program with $120,000 funding for the first 6 months. Research extends to 12 times longer, and each later month costs 60% more. What\u2019s the total research cost?",
+    "gold": "000",
+    "pred": "12",
+    "correct": false,
+    "full": "FYI \u2013 here\u2019s a fun one: John builds a program with $120,000 funding for the first 6 months. Research extends to 12 times longer, and each later month costs 60% more. What\u2019s the total research cost? Let's think step by step: $120,000 / 12 = $<<12*12=144>>144 per month.\n$120,000 / 6 = $<<12*12=144>>144 per month after 6 months.\n$144 x 60/100 = $<<144*60/100=144>>144 per month after 12 months.\n$144 + $144 = $<<144+144=304>>304 per month after 12 months.\nSo the total research cost is $304 x 12"
+  },
+  {
+    "id": 38,
+    "question": "By the way, in the jeweler\u2019s shop, a gold piece costs 3/4 of a diamond piece. Silver is $500 less than gold. If a diamond piece is $2400, what\u2019s the total price for all three?",
+    "gold": "5300",
+    "pred": "4500",
+    "correct": false,
+    "full": "By the way, in the jeweler\u2019s shop, a gold piece costs 3/4 of a diamond piece. Silver is $500 less than gold. If a diamond piece is $2400, what\u2019s the total price for all three? Let's think step by step: Diamond = 2400 * 3/4 = <<2400*3/4=1800>>1800\nSilver = 1800 - 500 = <<1800-500=1350>>1350\nTotal price = 2400 + 1350 + 1800 = <<2400+1350+1800=4500>>4500\n#### 4500"
+  },
+  {
+    "id": 39,
+    "question": "Quick note before we continue: Sally\u2019s bank account started at $250, now shows $510. Her weekly wage should be $350. How many dollars were withheld?",
+    "gold": "90",
+    "pred": "110",
+    "correct": false,
+    "full": "Quick note before we continue: Sally\u2019s bank account started at $250, now shows $510. Her weekly wage should be $350. How many dollars were withheld? Let's think step by step: Sally\u2019s account starts with $250, now shows $510, and her weekly wage should be $350.\nSally\u2019s account now shows $510 - $350 = $<<510-350=110>>110.\n#### 110"
+  },
+  {
+    "id": 40,
+    "question": "Heads-up! A pound of almonds costs $12, walnuts $18. How much more does 2/3 pound almonds + 1/2 pound walnuts cost than 1/4 pound almonds + 1/2 pound walnuts?",
+    "gold": "4",
+    "pred": "2",
+    "correct": false,
+    "full": "Heads-up! A pound of almonds costs $12, walnuts $18. How much more does 2/3 pound almonds + 1/2 pound walnuts cost than 1/4 pound almonds + 1/2 pound walnuts? Let's think step by step: 2/3 pound almonds = $12/pound * 2/3 = $<<12*2/3=8>>8\n2/3 pound walnuts = $18/pound * 2/3 = $<<18*2/3=12>>12\n1/4 pound walnuts = $12/pound * 1/4 = $<<12*1/4=3>>3\n2/3 pound almonds + 1/2 pound walnuts = $<<2/"
+  },
+  {
+    "id": 41,
+    "question": "FYI \u2013 on a basketball court, 200 teachers stand; 55% are history teachers. The rest are math teachers. Each sleeps 7 hours daily. How many total sleep hours for all math teachers per day?",
+    "gold": "630",
+    "pred": "735",
+    "correct": false,
+    "full": "FYI \u2013 on a basketball court, 200 teachers stand; 55% are history teachers. The rest are math teachers. Each sleeps 7 hours daily. How many total sleep hours for all math teachers per day? Let's think step by step: 200 teachers * 55% = <<200*55*.01=110>>110 history teachers.\n200 teachers - 110 teachers = <<200-110=110>>110 math teachers.\n110 teachers * 7 hours = <<110*7=735>>735 total sleep hours for all math teachers per day.\n#### 735"
+  },
+  {
+    "id": 42,
+    "question": "Just to note: Gissela's truck hauls 5,000 pounds. Gordy\u2019s hauls 1,000 pounds more. Combined with Gary, they haul 14,500 pounds. How much can Gary\u2019s truck carry?",
+    "gold": "8500",
+    "pred": "3",
+    "correct": false,
+    "full": "Just to note: Gissela's truck hauls 5,000 pounds. Gordy\u2019s hauls 1,000 pounds more. Combined with Gary, they haul 14,500 pounds. How much can Gary\u2019s truck carry? Let's think step by step: Gissela\u2019s truck hauls 5,000 pounds + 1,000 pounds = <<5000+1000=6000>>6,000 pounds.\nTogether, they haul 6,000 pounds + 14,500 pounds = <<6000+14500=9450>>9450 pounds.\nGary\u2019s truck can carry 9450 pounds / 5,000 pounds = <<9450/5000=3>>3 times as much as Gissela\u2019s truck.\n"
+  },
+  {
+    "id": 43,
+    "question": "By the way, Alex tutors over 8 days and charges $15 per day. How much does Alex earn in total?",
+    "gold": "120",
+    "pred": "120",
+    "correct": true,
+    "full": "By the way, Alex tutors over 8 days and charges $15 per day. How much does Alex earn in total? Let's think step by step: Alex earns $15 x 8 = $<<15*8=120>>120 in total.\n#### 120"
+  },
+  {
+    "id": 44,
+    "question": "FYI \u2013 here\u2019s a little twist: A pencil costs $0.60, and an eraser costs $0.30. If you buy 7 pencils and 9 erasers and pay $15, how much change would you get?",
+    "gold": "6.7",
+    "pred": "6.00",
+    "correct": false,
+    "full": "FYI \u2013 here\u2019s a little twist: A pencil costs $0.60, and an eraser costs $0.30. If you buy 7 pencils and 9 erasers and pay $15, how much change would you get? Let's think step by step: 7 pencils cost $0.60 each, so 7 * 0.60 = $<<7*0.60=3.00>>3.00\n9 erasers cost $0.30 each, so 9 * 0.30 = $<<9*0.30=3.50>>3.50\nIn total, you pay $3.00 + $3.50 = $<<3+3.5=6.00>>6.00\nYou get $"
+  },
+  {
+    "id": 45,
+    "question": "By the way, here\u2019s something interesting! Castle bought 5 boxes of Choco Crunch and 6 boxes of Honey Loops this week. Last week she bought 3 boxes. How many more boxes did she buy this week compared to last week?",
+    "gold": "8",
+    "pred": "8",
+    "correct": true,
+    "full": "By the way, here\u2019s something interesting! Castle bought 5 boxes of Choco Crunch and 6 boxes of Honey Loops this week. Last week she bought 3 boxes. How many more boxes did she buy this week compared to last week? Let's think step by step: Castle bought 5 + 6 = <<5+6=11>>11 boxes this week.\nSo she bought 11 - 3 = <<11-3=8>>8 more boxes this week.\n#### 8"
+  },
+  {
+    "id": 46,
+    "question": "Quick note before we jump in: Jeremy saw 15 birds in the backyard and scared away 1/5 of them. A few minutes later, 25 more birds joined. How many birds are now in the backyard?",
+    "gold": "37",
+    "pred": "41",
+    "correct": false,
+    "full": "Quick note before we jump in: Jeremy saw 15 birds in the backyard and scared away 1/5 of them. A few minutes later, 25 more birds joined. How many birds are now in the backyard? Let's think step by step: 15 birds - 1/5 = <<15-1/5=3>>3 birds were scared away.\n25 birds + 3 birds = <<25+3=28>>28 birds joined.\nSo, there are now 28 birds + 15 birds = <<28+15=41>>41 birds in the backyard.\n#### 41"
+  },
+  {
+    "id": 47,
+    "question": "Just a heads-up: Marissa bought a toy at the store for $25. She had $100 and used the rest to buy Jimmy candy bars at $6 each. How many candy bars did Marissa buy?",
+    "gold": "12",
+    "pred": "15",
+    "correct": false,
+    "full": "Just a heads-up: Marissa bought a toy at the store for $25. She had $100 and used the rest to buy Jimmy candy bars at $6 each. How many candy bars did Marissa buy? Let's think step by step: $100 - $25 = $<<100-25=75>>75\n$75 / 6 = <<75/6=15>>15\nMarissa bought 15 candy bars.\n#### 15"
+  },
+  {
+    "id": 48,
+    "question": "Friendly reminder! Anthony had 60 pencils. He gave away half to Brandon and 2/3 of the rest to Charlie. How many pencils did Anthony keep?",
+    "gold": "10",
+    "pred": "48",
+    "correct": false,
+    "full": "Friendly reminder! Anthony had 60 pencils. He gave away half to Brandon and 2/3 of the rest to Charlie. How many pencils did Anthony keep? Let's think step by step: 60 pencils / 2 = <<60/2=30>>30 pencils.\nAnthony gave away 30 pencils / 3 = <<30/3=10>>10 pencils to Charlie.\nSo, Anthony kept 60 - 10 - 2 = <<60-10-2=48>>48 pencils.\n#### 48"
+  },
+  {
+    "id": 49,
+    "question": "Quick heads-up: Jack visits a museum 200 miles away, driving 80 mph each way. He spends 5 hours at the museum. How long is he gone in total?",
+    "gold": "10",
+    "pred": "600",
+    "correct": false,
+    "full": "Quick heads-up: Jack visits a museum 200 miles away, driving 80 mph each way. He spends 5 hours at the museum. How long is he gone in total? Let's think step by step: Jack spends 5 hours * 80 mph/hour = <<5*80=400>>400 miles.\nIn total, Jack is gone 200 miles + 400 miles = <<200+400=600>>600 miles.\n#### 600"
+  },
+  {
+    "id": 50,
+    "question": "FYI \u2013 here\u2019s a fun one: Samwell\u2019s store sells 48 TVs: 1/3 smart TVs, 1/6 analog TVs, rest OLED. How many OLED TVs did they sell?",
+    "gold": "24",
+    "pred": "3",
+    "correct": false,
+    "full": "FYI \u2013 here\u2019s a fun one: Samwell\u2019s store sells 48 TVs: 1/3 smart TVs, 1/6 analog TVs, rest OLED. How many OLED TVs did they sell? Let's think step by step: 1/3 smart TVs = <<1/3=.5>>.5 TVs.\n1/6 analog TVs = <<1/6=.5>>.5 TVs.\nRest OLED =.5 TVs * (1/6) = <<.5*(1/6)=.5>>.5 TVs.\nTotal TVs sold =.5 TVs +.5 TVs + 1 TV = <<.5+.5+1=3>>3 TVs.\n#### 3"
+  },
+  {
+    "id": 51,
+    "question": "By the way, Damien collects 15 bottle caps a day, each worth $0.30. How much does he earn in a 31-day month?",
+    "gold": "139.5",
+    "pred": "84",
+    "correct": false,
+    "full": "By the way, Damien collects 15 bottle caps a day, each worth $0.30. How much does he earn in a 31-day month? Let's think step by step: Damien collects 15 bottle caps/day * 31 days/month = <<15*31=420>>420 bottle caps/month.\nSo, he earns 420 bottle caps/month * $0.30/cap = $<<420*0.30=84>>84/month.\n#### 84"
+  },
+  {
+    "id": 52,
+    "question": "Quick note before we continue: Kris wants a 40-hour game achievement. She plays 1 hour daily for 10 days, then 3 hours daily for 5 days. How many more hours does she need?",
+    "gold": "15",
+    "pred": "14",
+    "correct": false,
+    "full": "Quick note before we continue: Kris wants a 40-hour game achievement. She plays 1 hour daily for 10 days, then 3 hours daily for 5 days. How many more hours does she need? Let's think step by step: 10 days * 60 minutes/day = <<10*60=600>>600 minutes\n600 minutes / 40 hours = <<600/40=15>>15 hours\nKris needs to play an additional 15 hours - 1 hour = <<15-1=14>>14 hours\n#### 14"
+  },
+  {
+    "id": 53,
+    "question": "Heads-up! John buys 4 goats at $550 each and 3 cows at $1600 each. How much does he spend in total?",
+    "gold": "7250",
+    "pred": "7800",
+    "correct": false,
+    "full": "Heads-up! John buys 4 goats at $550 each and 3 cows at $1600 each. How much does he spend in total? Let's think step by step: 4 goats * $550/goat = $<<4*550=2700>>2700\n3 cows * $1600/cow = $<<3*1600=4800>>4800\nTotal spent $2700 + $4800 = $<<2700+4800=7800>>7800\n#### 7800"
+  },
+  {
+    "id": 54,
+    "question": "FYI \u2013 An electronics seller buys 6 phones at $750 each and pays $5000 in cash. How much change will the seller return?",
+    "gold": "500",
+    "pred": "2500",
+    "correct": false,
+    "full": "FYI \u2013 An electronics seller buys 6 phones at $750 each and pays $5000 in cash. How much change will the seller return? Let's think step by step: 6 phones * $750/phone = $<<6*750=2750>>2750\nThe cash amount is $5000 - $2750 = $<<5000-2750=2500>>2500\nThe seller will return $2500 in cash.\n#### 2500"
+  },
+  {
+    "id": 55,
+    "question": "Just to note: Martin weighs 60 kg. Carl weighs 18 kg more, and Christian weighs 10 kg more than Carl. Harry weighs 7 kg less than Christian. What\u2019s Harry\u2019s weight?",
+    "gold": "81",
+    "pred": "71",
+    "correct": false,
+    "full": "Just to note: Martin weighs 60 kg. Carl weighs 18 kg more, and Christian weighs 10 kg more than Carl. Harry weighs 7 kg less than Christian. What\u2019s Harry\u2019s weight? Let's think step by step: 60 kg + 18 kg = <<60+18=78>>78 kg.\n78 kg + 10 kg = <<78+10=84>>84 kg.\nHarry weighs 84 kg - 7 kg = <<84-7=71>>71 kg.\n#### 71"
+  },
+  {
+    "id": 56,
+    "question": "By the way, Dijana rows 60 miles; Anis rows 1/4 more. What\u2019s the total distance they rowed together that day?",
+    "gold": "135",
+    "pred": "20",
+    "correct": false,
+    "full": "By the way, Dijana rows 60 miles; Anis rows 1/4 more. What\u2019s the total distance they rowed together that day? Let's think step by step: 60 miles / 4 = <<60/4=15>>15 miles\nAnis rows 1/4 more than Dijana, so she rows 1/4 * 15 miles = <<1/4*15=5>>5 miles.\nTogether, Anis and Dijana rowed 15 miles + 5 miles = <<15+5=20>>20 miles.\n#### 20"
+  },
+  {
+    "id": 57,
+    "question": "Reminder! Dean has 40 marbles. He gives 1/4 to Jamie and 12 to Donald. How many does he keep?",
+    "gold": "18",
+    "pred": "8",
+    "correct": false,
+    "full": "Reminder! Dean has 40 marbles. He gives 1/4 to Jamie and 12 to Donald. How many does he keep? Let's think step by step: Dean gives Jamie 1/4 * 40 = <<1/4*40=10>>10 marbles.\nDean gives 12 to Donald, so he has 40 - 10 - 12 = <<40-10-12=8>>8 marbles left.\n#### 8"
+  },
+  {
+    "id": 58,
+    "question": "FYI \u2013 25 students each sell lollipops costing $0.90, averaging 12 sold each. If they bought them at $0.6 each, how much profit did the class raise?",
+    "gold": "90",
+    "pred": "25",
+    "correct": false,
+    "full": "FYI \u2013 25 students each sell lollipops costing $0.90, averaging 12 sold each. If they bought them at $0.6 each, how much profit did the class raise? Let's think step by step: 25 students * $0.90/lollipop = $<<25*0.90=18>>18\n25 students * $0.6/lollipop = $<<25*0.6=15>>15\n25 students * $0.6/lollipop = $<<25*0.6=15>>15\n25 students * $0.6/lollipop = $<<25*0.6=15>>15\n25 students * $"
+  },
+  {
+    "id": 59,
+    "question": "FYI \u2013 Shawna's father is six times as old as Shawna. Shawna is currently four times as old as Aliya. If Aliya is 4 years old, how old is Shawna's father?",
+    "gold": "96",
+    "pred": "2",
+    "correct": false,
+    "full": "FYI \u2013 Shawna's father is six times as old as Shawna. Shawna is currently four times as old as Aliya. If Aliya is 4 years old, how old is Shawna's father? Let's think step by step: Aliya = 4 * 4 = <<4*4=16>>16\nShawna = 16 + 4 = <<16+4=20>>20\nShawna's father is 20 / 6 = <<20/6=2>>2 years old.\n#### 2"
+  },
+  {
+    "id": 60,
+    "question": "Quick note! Pamela applies an ounce of sunscreen every hour she's outside. Her bottle holds 10 ounces. While on vacation, she\u2019ll be outside 5 hours daily for 7 days. How many bottles will she need?",
+    "gold": "4",
+    "pred": "70",
+    "correct": false,
+    "full": "Quick note! Pamela applies an ounce of sunscreen every hour she's outside. Her bottle holds 10 ounces. While on vacation, she\u2019ll be outside 5 hours daily for 7 days. How many bottles will she need? Let's think step by step: Pamela will be outside for 5 hours * 7 days = <<5*7=35>>35 hours.\nShe will apply an ounce of sunscreen every hour she\u2019s outside, so she will apply 35 hours / 5 hours/hour = <<35/5=7>>7 ounces of sunscreen every hour.\nShe will need 7 ounces * 10 ounces = <<7*10=70>>70 ounces of sunscreen.\n#### 70"
+  },
+  {
+    "id": 61,
+    "question": "By the way, Edgar eats 20 pretzels daily. If his brother eats half that, how many pretzels does his brother eat in 8 days?",
+    "gold": "80",
+    "pred": "80",
+    "correct": true,
+    "full": "By the way, Edgar eats 20 pretzels daily. If his brother eats half that, how many pretzels does his brother eat in 8 days? Let's think step by step: Edgar eats 20/2 = <<20/2=10>>10 pretzels daily.\nSo in 8 days, Edgar's brother eats 10*8 = <<10*8=80>>80 pretzels.\n#### 80"
+  },
+  {
+    "id": 62,
+    "question": "Friendly reminder! Bethany can run 12 laps per hour. Trey runs 5 more laps than Bethany. Shaelyn runs half as many as Trey, and Quinn runs 3 fewer than Shaelyn. How many more laps can Bethany run compared to Quinn?",
+    "gold": "7",
+    "pred": "3",
+    "correct": false,
+    "full": "Friendly reminder! Bethany can run 12 laps per hour. Trey runs 5 more laps than Bethany. Shaelyn runs half as many as Trey, and Quinn runs 3 fewer than Shaelyn. How many more laps can Bethany run compared to Quinn? Let's think step by step: 12 laps * 2 = <<12*2=24>>24 laps\nTrey runs 5 more laps than Bethany, so he runs 12 + 5 = <<12+5=17>>17 laps.\nQuinn runs 3 fewer laps than Shaelyn, so he runs 17 - 3 = <<17-3=14>>14 laps.\nBethany can run 24 laps - 14 laps - 17 laps = <<24-14-17=3>>3 more laps than Quinn"
+  },
+  {
+    "id": 63,
+    "question": "Heads-up! There are 60 books in a small library. Half are in English, 20% in German. How many are Spanish books?",
+    "gold": "18",
+    "pred": "105",
+    "correct": false,
+    "full": "Heads-up! There are 60 books in a small library. Half are in English, 20% in German. How many are Spanish books? Let's think step by step: 60 books / 2 = <<60/2=30>>30 books in English.\n30 books / 2 = <<30/2=15>>15 books in German.\n60 books + 30 books + 15 books = <<60+30+15=105>>105 books.\n#### 105"
+  },
+  {
+    "id": 64,
+    "question": "FYI \u2013 An apple orchard sells apples in bags of 12. They sold 2400 apples today. How much did they earn if each bag is $6?",
+    "gold": "1200",
+    "pred": "2400",
+    "correct": false,
+    "full": "FYI \u2013 An apple orchard sells apples in bags of 12. They sold 2400 apples today. How much did they earn if each bag is $6? Let's think step by step: 2400 apples / 12 apples/bag = <<2400/12=200>>200 bags of apples.\nSo, they earned $200/bundle x 12 bags = $<<200*12=2400>>2400.\n#### 2400"
+  },
+  {
+    "id": 65,
+    "question": "Quick note! Jeff is 12 years older than Martha. Martha is 5 years younger than Mike, who is 26. How old is Jeff?",
+    "gold": "33",
+    "pred": "18",
+    "correct": false,
+    "full": "Quick note! Jeff is 12 years older than Martha. Martha is 5 years younger than Mike, who is 26. How old is Jeff? Let's think step by step: Martha = 26 + 5 = <<26+5=31>>31\nMike = 26 + 5 = <<26+5=31>>31\nJeff = 31 - 12 = <<31-12=18>>18\n#### 18"
+  },
+  {
+    "id": 66,
+    "question": "By the way, Caroline is four times older than Ben. Ben is three times older than Chris. If Chris is 5, how old is Caroline?",
+    "gold": "60",
+    "pred": "60",
+    "correct": true,
+    "full": "By the way, Caroline is four times older than Ben. Ben is three times older than Chris. If Chris is 5, how old is Caroline? Let's think step by step: Ben is 5 * 3 = <<5*3=15>>15 years old.\nCaroline is 15 * 4 = <<15*4=60>>60 years old.\n#### 60"
+  },
+  {
+    "id": 67,
+    "question": "Reminder! Last year, 60 students enrolled in the art class. This year, enrollment increased by 25%. How many students are enrolled this year?",
+    "gold": "75",
+    "pred": "75",
+    "correct": true,
+    "full": "Reminder! Last year, 60 students enrolled in the art class. This year, enrollment increased by 25%. How many students are enrolled this year? Let's think step by step: 60 x 25/100 = <<60*25/100=15>>15 students were enrolled last year.\nSo, 60 + 15 = <<60+15=75>>75 students were enrolled this year.\n#### 75"
+  },
+  {
+    "id": 68,
+    "question": "FYI \u2013 Carl has a cane half as tall as himself. Carl is two feet taller than Ned, who is three feet shorter than Isabel. If Isabel is 8 feet tall, how long is Carl\u2019s cane?",
+    "gold": "3.5",
+    "pred": "22",
+    "correct": false,
+    "full": "FYI \u2013 Carl has a cane half as tall as himself. Carl is two feet taller than Ned, who is three feet shorter than Isabel. If Isabel is 8 feet tall, how long is Carl\u2019s cane? Let's think step by step: 8 feet + 3 feet = <<8+3=11>>11 feet\nCarl is 11 feet tall, so his cane is 11 feet * 2 = <<11*2=22>>22 feet long.\n#### 22"
+  },
+  {
+    "id": 69,
+    "question": "Quick heads-up! Jack had $120. Sophia gave him 1/4 of her $160. How much money does Jack have now?",
+    "gold": "160",
+    "pred": "240",
+    "correct": false,
+    "full": "Quick heads-up! Jack had $120. Sophia gave him 1/4 of her $160. How much money does Jack have now? Let's think step by step: $120 + $160 = $<<120+160=280>>280\nSophia gave Jack 1/4 * $160 = $<<1/4*160=40>>40.\nSo Jack now has $280 - $40 = $<<280-40=240>>240.\n#### 240"
+  },
+  {
+    "id": 70,
+    "question": "By the way, Sam ran 4 miles on Monday, Wednesday, and Friday; 6 miles on Tuesday and Thursday. How many miles did Sam run this week?",
+    "gold": "24",
+    "pred": "20",
+    "correct": false,
+    "full": "By the way, Sam ran 4 miles on Monday, Wednesday, and Friday; 6 miles on Tuesday and Thursday. How many miles did Sam run this week? Let's think step by step: Monday, Wednesday, and Friday = 4 + 6 + 4 = <<4+6+4=14>>14 miles\nSam ran 14 miles on Monday, Wednesday, and Friday.\nSam ran 14 miles on Tuesday and Thursday.\nSam ran 14 miles + 6 miles = <<14+6=20>>20 miles this week.\n#### 20"
+  },
+  {
+    "id": 71,
+    "question": "Reminder! Ali teaches one class of 140 students at a private school. John teaches two classes, each 1/7 the size of Ali\u2019s. What\u2019s the combined capacity?",
+    "gold": "180",
+    "pred": "147",
+    "correct": false,
+    "full": "Reminder! Ali teaches one class of 140 students at a private school. John teaches two classes, each 1/7 the size of Ali\u2019s. What\u2019s the combined capacity? Let's think step by step: 1 class * 1/7 = <<1*1/7=1>>1 class\n2 classes * 1/7 = <<2*1/7=0.5>>0.5 class\nTotal capacity 140 students + 1 class + 0.5 class = <<140+1+0.5=147>>147 students\n#### 147"
+  },
+  {
+    "id": 72,
+    "question": "FYI \u2013 John, the carpenter, made 5 wooden chairs for $25 each and 3 tables for $50 each. How much does Ali owe John?",
+    "gold": "275",
+    "pred": "275",
+    "correct": true,
+    "full": "FYI \u2013 John, the carpenter, made 5 wooden chairs for $25 each and 3 tables for $50 each. How much does Ali owe John? Let's think step by step: 5 chairs * $25/chair = $<<5*25=125>>125\n3 tables * $50/table = $<<3*50=150>>150\nTotal cost: $125 + $150 = $<<125+150=275>>275\n#### 275"
+  },
+  {
+    "id": 73,
+    "question": "Quick note! Carly makes two fewer than four times as many brownies as cupcakes. If five people each get two treats, how many cupcakes did Carly make?",
+    "gold": "4",
+    "pred": "8",
+    "correct": false,
+    "full": "Quick note! Carly makes two fewer than four times as many brownies as cupcakes. If five people each get two treats, how many cupcakes did Carly make? Let's think step by step: 5 people * 2 treats/person = <<5*2=10>>10 treats\nCarly makes 10 - 2 = <<10-2=8>>8 brownies\n#### 8"
+  },
+  {
+    "id": 74,
+    "question": "By the way, James wants to hang streamers around his rectangular backyard, which is 25 feet long and 18 feet wide. How many feet of streamers does he need?",
+    "gold": "86",
+    "pred": "210",
+    "correct": false,
+    "full": "By the way, James wants to hang streamers around his rectangular backyard, which is 25 feet long and 18 feet wide. How many feet of streamers does he need? Let's think step by step: 25 feet * 18 feet = <<25*18=420>>420 feet\nThen we can write the equation 420 feet / 2 = <<420/2=210>>210 feet/step\n#### 210"
+  }
+]

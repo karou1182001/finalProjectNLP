@@ -1,0 +1,236 @@
+[
+  {
+    "question": "Just a quick note before we dive in: John takes care of 15 dogs.  Each dog takes .10 hours a day to walk and take care of their business.  How many hours a week does he spend taking care of dogs? Carry on with the math.",
+    "gold": "40",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: Richard lives in an apartment building with 20 floors. Each floor contains 13 units, and 6/8 of the building is occupied. What's the total number of unoccupied units In the building? Carry on with the math.",
+    "gold": "35",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: Cecilia just bought a new puppy. According to her veterinarian, she has to feed the puppy 3 cup of dog food every day for the first 185 days. Then she has to feed the puppy 6 cups of dog food every day for the rest of its life. If one bag of dog food contains 330 cups, how many bags of dog food will Cecilia use in the first year? Let’s see what happens now.",
+    "gold": "10",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: John buys 7 pairs of shoes for each of his 6 children.  They cost $180 each.  How much did he pay? Carry on with the math.",
+    "gold": "720",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: Nissa hires 180 seasonal workers to play elves in her department store's Santa village. A third of the elves quit after children vomit on them, then 15 of the remaining elves quit after kids kick their shins. How many elves are left? Hope that isn’t too distracting!",
+    "gold": "60",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: Josie grows grapes on her 15-acre farm.  Each acre produces 15 tons of grapes per year, and each ton of grapes makes 7 barrels of wine.  How many barrels of wine does her farm produce per year? Let’s see what happens now.",
+    "gold": "300",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: A company spends $15005 on advertising for a year, and then spends a third of that amount on advertising for another year.  What's the total amount the company spent on advertising for the two years? Carry on with the math.",
+    "gold": "60000",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: Kalinda is working on a 365 piece puzzle with her mom. Kalinda can normally add 8 pieces per minute. Her mom can typically place half as many pieces per minute as Kalinda.  How many hours will it take them to complete this puzzle? Let’s see what happens now.",
+    "gold": "2",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Kylie and Robert enjoy going to the beach to collect shells. On Monday, Kylie collects 15 more shells than Robert, who collects 25 shells. On Tuesday, Kylie collects 4 times more shells than she did on Monday. How many shells does Kylie collect on Tuesday? Hope that isn’t too distracting!",
+    "gold": "100",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: A chef bought 9 bags of onions. Each bag weighs 150 pounds. A pound of onions cost $6.5. How much did the chef spend? Let’s see what happens now.",
+    "gold": "600",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: Peter purchased 40 popsicles at $5.2 each. He also purchased 8 ice cream bars at $1.5 each. How much did he pay in total in dollars? Hope that isn’t too distracting!",
+    "gold": "21",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: The ratio of the electric poles and electric wires needed to connect and supply the electricity in a certain neighborhood is 2:9. If the total number of electric wires needed to connect the electricity in the neighborhood is 135, calculate the total number of electric poles required by an electric company to supply the electricity in the neighborhood. Let’s see what happens now.",
+    "gold": "45",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: Oscar has 48 lollipops and eats 4 on his way to school.  He passes 28 out to his friends.  He buys twice as many lollipops on his way home as he gave to his friends.  He eats 6 more that night and 6 more in the morning.  How many lollipops does Oscar have? Hope that isn’t too distracting!",
+    "gold": "62",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? There are 12 girls in the park. If there are twice the number of boys in the park, how many kids are in the park? Let’s see what happens now.",
+    "gold": "54",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? To have the car for the weekend, Wilson's report card needs to show that he received 160 or higher in his math class.  His math grade is calculated by the average of 10 test scores.  On those tests, he received: 70, 282, 86, 258 and 79.  What is his current math grade? Carry on with the math.",
+    "gold": "240",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: Antoine's french onion soup recipe calls for 7 pounds of onions. He likes to double that amount. His soup serves 12 people. The onions are currently on sale for $4 a pound. He also needs 7 boxes of beef stock, that are also on sale for $6 a box.  What is the cost per serving? (Round to the nearest integer.) Let’s see what happens now.",
+    "gold": "7",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Sarah went to buy books from the store and spent $600 on the books. If each book was $20 and she gave an equal number of books to her 8 kids, how many books did each child get? Carry on with the math.",
+    "gold": "15",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: Jackson is planting tulips. He can fit 11 red tulips in a row and 24 blue tulips in a row. If Jackson buys 41 red tulips and 72 blue tulips, how many rows of flowers will he plant? Let’s see what happens now.",
+    "gold": "18",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Nick had twice as many candies as George. Then George ate 10 candies. Now George has 9 candies left. How many candies does Nick have? Hope that isn’t too distracting!",
+    "gold": "48",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: $23 is shared among 9 boys. The eldest added $10 to his share and added another $15 the following day. He later needed some money and spent $13 from his total so far. After saving some more, he was able to triple the amount he had left after spending the $24. How much does he have now? Hope that isn’t too distracting!",
+    "gold": "78",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Tabitha agreed to pay John and Jill $20 an hour to help clean out her attic and basement.  Jill worked 6 hours on Saturday and 3 hour on Sunday.  John worked twice as long as Jill on Saturday and three times as long as Jill on Sunday.  How much more money did John earn compared to Jill? Let’s see what happens now.",
+    "gold": "80",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: The jumbo bottle of shampoo costs $48.  The directions say to use 6 pumps of shampoo and this will give you 360 washings.  If Jackie only uses 3 pump per wash, how much will each pump cost, in cents? Carry on with the math.",
+    "gold": "30",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: Adam really wants to ride the biggest roller coaster at the park. You have to be 9 feet tall to ride it. Adam’s height is 80 inches and he grows 7 inches a year. How many years until he is tall enough to ride it? Let’s see what happens now.",
+    "gold": "12",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Janey has 8 more than twice the number of books that Sally has. If Janey has 42 books, how many does Sally have? Carry on with the math.",
+    "gold": "27",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? The ice cream parlor was offering a deal, buy 7 scoops of ice cream, get 2 scoop free.  Each scoop cost $4.5.  If Erin had  $18, how many scoops of ice cream should she buy? Let’s see what happens now.",
+    "gold": "11",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: John and DeSean bought a bag of marshmallows to make s'mores together. The bag has 105 marshmallows. Each S'more uses one marshmallow. If John makes 18 S'mores, DeSean makes 27 S'mores, and they dropped 9 marshmallows on the ground, how many S'mores can each kid have with the marshmallows left in the bag? Let’s see what happens now.",
+    "gold": "12",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? John goes to the market and buys 9 goats for $1500 each and 6 cows for $4500 each.  How much money did he spend? Carry on with the math.",
+    "gold": "13500",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: If it takes 6 kangaroos traveling at the same speed a total of 36 hours to travel across a highway, how many hours will it take four turtles, each traveling at half the speed of a kangaroo, to do so? Hope that isn’t too distracting!",
+    "gold": "144",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: Jada, Rory, and Kora make clay dishes to present as art for their school project. Jada makes twice as many clay dishes as Rory, while Rory makes 25 more clay dishes than Kora. If Kora made 25 dishes, how many clay dishes they all make together? Carry on with the math.",
+    "gold": "145",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Jennifer bought 24 oranges from the market, she gave her three daughters 4 oranges each, and her only boy got 6 oranges. How many oranges did she remain with? Let’s see what happens now.",
+    "gold": "8",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: Mark works at his job for 13 hours a day for 10 days a week.  He used to make $15 an hour but they raised his pay by $6 per hour.  How much does he make a week? Hope that isn’t too distracting!",
+    "gold": "960",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: Bruce works for 15 hours on Tuesday. On Wednesday he works twice the time he works on Tuesday. On Thursday he works 7 hours less than the time he works on Wednesday. How many hours does Bruce work in all these three days? Hope that isn’t too distracting!",
+    "gold": "69",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: A loaf of bread has 48 slices. If Abby can eat 6 slices a day while Josh can eat twice as much, how many days will the loaf of bread last? Carry on with the math.",
+    "gold": "8",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: Robyn sends sixteen emails a day. Seven are work emails, and two-thirds of the remainder are to family. One-third of the other emails are to her boyfriend. How many emails a day does she send to her boyfriend? Let’s see what happens now.",
+    "gold": "3",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: Last year there were 55 students enrolled in a calligraphy class. This year, there was a 25% increase in enrollment. How many students are enrolled this year in the calligraphy class? Carry on with the math.",
+    "gold": "180",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: James has 60 teeth. His dentist drills 12 of them and caps 12 more teeth than he drills. What percentage of James' teeth does the dentist fix? Hope that isn’t too distracting!",
+    "gold": "100",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: Digimon had its 25th anniversary.  When it came out John was twice as old as Jim.  If John is 56 now how old is Jim? Let’s see what happens now.",
+    "gold": "29",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? There are 71 fish in the fish tank. One-third of the fish have red stripes, and 10/22 of the remaining fish have blue stripes. Altogether, how many fish have red stripes and blue stripes? Let’s see what happens now.",
+    "gold": "84",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: Tim makes a special honey and jam mix.  To make 3 jar of the mixture it takes 7 pounds of passion fruit and 6.5 pounds of jackfruit.  It also takes 6 pounds of special honey.  The passion fruit costs $11 per pound, the jackfruit is $24 per pound, and the honey is $15 per pound.  He sells each jar for $150.  How much profit does he make selling 30 jars? Carry on with the math.",
+    "gold": "180",
+    "pred": "",
+    "correct": ""
+  }
+]

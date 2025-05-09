@@ -1,0 +1,188 @@
+[
+  {
+    "question": "By the way, have you noticed this? Brandon's iPhone is four times as old as Ben's iPhone. Ben's iPhone is two times older than Suzy's iPhone. If Suzy’s iPhone is 2 year old, how old is Brandon’s iPhone? Let’s see what happens now.",
+    "gold": "16",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Jamal's phone can hold 18 times more photographs than can Brittany's phone.  The maximum number of photographs that Brittany's phone can hold is 100 times more than the number of birds in Jamal's photograph of the ducks at the zoo.  If Jamal's phone can hold 3600 photographs, how many ducks can be seen in Jamal's photograph of ducks at the zoo? Carry on with the math.",
+    "gold": "18",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Jennie is helping at her mom's office. She has a pile of 180 letters needing stamps, and a pile of letters already stamped. She puts stamps on one-third of the letters needing stamps. If there are now 35 letters in the pile of already-stamped letters, how many were in that pile when Jennie began? Hope that isn’t too distracting!",
+    "gold": "30",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? A hospital sees 1500 people a day.  Each patient is seen for an average of 72 minutes.  The doctors charge $300 an hour to the hospital and the hospital charges the patients $600 an hour.  How much profit does the hospital make from these visits? Let’s see what happens now.",
+    "gold": "20000",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: Jimmy has $6 more than twice the money Ethel has. If Ethal has $24, how much money is Jimmy having? Hope that isn’t too distracting!",
+    "gold": "36",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: 8 adults and 24 children are to share 16 packets of chocolate bars. Each packet contains 10 chocolate bars. If each adult gets 18 chocolate bars and the rest are to be shared equally among the children, how many will each child get? Hope that isn’t too distracting!",
+    "gold": "4",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Billy is buying some candy with $15 his father gave him. The candy costs $3 a pound. After buying candy, he takes half his change and spends it on gumballs, which cost $.10 each. If he bought 120 gumballs, how many pounds of candy did he buy? Carry on with the math.",
+    "gold": "12",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Dora wants to buy a skipping rope that costs $18, a board game that costs $16, and a playground ball that costs $6. She has saved $4 from her allowance, and her mother gave her $48. How much more money does Dora need to buy the skipping rope, the game, and the ball? Let’s see what happens now.",
+    "gold": "6",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Ray had 75 lollipops. He kept 10 lollipops and shared the remaining equally with his four friends. How many lollipops did each of his friends receive? Carry on with the math.",
+    "gold": "10",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: Michael is racing his horse and notices that for every mile the horse runs, he eats 3/4 a bail of hay. A bail of hay costs $9. If his horse runs for 35 minutes at 96MPH, and Michael has six 10 dollar bills, how much change does he have after he buys the hay? Hope that isn’t too distracting!",
+    "gold": "18",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Becky bought 25 apples for 135 cents each and received a $3 discount. Kelly bought 25 apples for 100 cents each and received a 15 percent discount. How much more did Kelly pay than Becky? Carry on with the math.",
+    "gold": "3",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: Jeff’s work is 6 miles away.  He walks there and back each day he works.  How many miles does he walk if he has to work 10 times a week? Hope that isn’t too distracting!",
+    "gold": "90",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: Timothy's locker is 48 cubic inches. Zack's locker is half as big as Timothy's locker. Peter's locker is 6/9 as big as Zack's locker. How big is Peter's locker in cubic inches? Carry on with the math.",
+    "gold": "6",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Marilyn wants to buy a pair of boots online. On Amazon.com, the boots cost $21 and shipping costs $12. On eBay, those same pair of shoes are only $39, but shipping costs twice as much as it does on Amazon. How much more expensive do the boots work out to be on eBay? Carry on with the math.",
+    "gold": "6",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: A plane travels 1205 miles in 8 hours. At the same rate, how many additional hours would it take to travel an additional 6000 miles? Hope that isn’t too distracting!",
+    "gold": "15",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Charmaine will be 21 years old in 24 years. How old will she be 8 years from now? Let’s see what happens now.",
+    "gold": "16",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: Robert had 8 pounds of candy, Cindy had 10 pounds of candy, and Aaron had 8 pounds of candy after Halloween. If they decide to pool and share their candy equally with each other, how much candy would each of them have? Carry on with the math.",
+    "gold": "8",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: Christina records her mood every day on a calendar. Over the past thirty days of moods, she had twelve good days and eight bad days and the rest were neutral. Her first eight days were good, her second eight days were bad, and her third eight days were neutral. If the next three days were good, neutral, and good, how many good days were left in the month? Carry on with the math.",
+    "gold": "6",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: Each sleeve of graham crackers makes the base for 16 large smores.  There are 8 sleeves in a box.  If 14 kids want 7 smores apiece and 18 adults will eat 3 smore apiece, how many boxes of graham crackers will they need? Carry on with the math.",
+    "gold": "6",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Peter wants to make different sized ice cubes with 64 ounces of water. He can make giant cubes that use 12 ounces per cube, medium cubes that use 6 ounces, and small cubes that use 3/4 an ounce. If he makes 9 giant cubes, 12 medium cubes, and 13 small cubes, how many ounces of water does he have left? Hope that isn’t too distracting!",
+    "gold": "6",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: Bennet is a farmer. He sells 25 of his eggplants for $6 each. He has 50 ears of corn that he can sell as well. If Bennet wants to make a total of $270, how much should he sell each ear of corn for? Hope that isn’t too distracting!",
+    "gold": "9",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: At the trip to the county-level scavenger hunt competition, 180 people were required to split into groups for the competition to begin. To break people up into smaller groups with different leaders, 14-person groups were formed. If 9/10 of the number of groups each had members bring back 4 seashells each, how many seashells did they bring? Carry on with the math.",
+    "gold": "324",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? There are 30 quarts of tea left from the party. Four students each drank 4.5 quarts of tea and 32 students each drank 4 quarts of tea. How many gallons of tea were at the beginning of the party? Carry on with the math.",
+    "gold": "36",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Dale is selling butterscotch candies to raise money for his club at school. He doesn't have the candies yet and is instead just taking orders. He started off with 105 total that he ordered and wanted to sell, but he ended up selling 300 butterscotch candies. Then he ordered 200 more. How many does Dale still need to sell to sell all of his candy? Let’s see what happens now.",
+    "gold": "150",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here's a little twist: There are 180 rooms at the KozyInn Motel. It takes housekeeping 25 minutes to clean each room. How many hours would it take to clean one-half of the rooms? Let’s see what happens now.",
+    "gold": "20",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Sarah has a rope that is 60 meters long. Her friend wants to buy the rope for $7 a meter. Sarah plans to use the profit to buy a new rope, which at the store costs $4.5 a meter. How much money will she have left over after she buys the new rope? Hope that isn’t too distracting!",
+    "gold": "20",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: Calvin is making soup for his family for dinner. He has a pot with enough soup to fill four adult's bowls or eight child's bowls. He is an adult and will be eating with his adult wife and their two children. If everyone eats one bowl at a meal, how many times will each child be able to have a bowl of soup for lunch from the leftover soup? Let’s see what happens now.",
+    "gold": "2",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? The book is printed on paper that, when stacked, is 300 pages to the inch. Each paper is printed on both sides, with one page of the book printed on each side. How many pages are in the book, if it is 3 inches thick? Let’s see what happens now.",
+    "gold": "600",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: The biggest waterslide at Five Flags is 600 feet long, and people slide down at 65 feet/minute. The second biggest waterslide is 245 feet long, but steeper, so people slide down at 240 feet/minute. How much longer does it take to ride the biggest slide compared to the second biggest slide? Carry on with the math.",
+    "gold": "4",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, have you noticed this? Ronnie was given $10 while Rissa was given thrice as much. After each of them had given an equal amount of money to their little sister, Rissa is left with 12/10 of her money. How much is left in Ronnie's money? Let’s see what happens now.",
+    "gold": "4",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a quick note before we dive in: James is putting together 12 tables.  Each table has 12 legs and each leg needs 4 screws.  He has 80 screws.  How many screws will he have left over? Hope that isn’t too distracting!",
+    "gold": "16",
+    "pred": "",
+    "correct": ""
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "question": "FYI – here’s a little twist: A robe takes 3 bolts of blue fiber and half that much white fiber. How many bolts in total does it take? Let’s do the math carefully.",
+    "gold": "4.5",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, here’s something interesting! John takes care of 12 dogs, each needing 0.75 hours a day. How many hours a week does he spend taking care of dogs? Think it through!",
+    "gold": "63",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note before we jump in: Dana can run five times faster than she walks, and skip at half her running speed. If skipping speed is 4 mph, how many miles can she cover in eight hours, spending one-third running and two-thirds walking?",
+    "gold": "32",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a heads-up: Raymond does two-thirds as much laundry as Sarah, who does 3 times David’s amount. If Sarah does 300 pounds, what’s the difference between Raymond and David’s loads?",
+    "gold": "100",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Friendly reminder! Dan plants 4 rose bushes, each with 30 roses, and each rose has 9 thorns. How many thorns total?",
+    "gold": "1080",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick heads-up: Greg’s alarm rings 5 times first, 2x longer second, and half that third. How many total rings?",
+    "gold": "20",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here’s a fun one: John buys 3 pairs of shoes per child for 4 kids; each pair costs $70. What’s the total spent?",
+    "gold": "840",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, Tom gets 5 car washes a month at $18 each. How much does he pay in a year?",
+    "gold": "1080",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note before we continue: Jordan plays games 3 hours/day. If he worked those hours at $12/hour, how much would he make in a week?",
+    "gold": "252",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Heads-up! Carl buys 8 packs of cookies (7 each) at $0.15 per cookie. How much change from a $15 bill?",
+    "gold": "6.60",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – Juan and Carlos make lemonade: $4 lemons, $3 sugar per gallon; 24 glasses/gallon at $0.60 each. If profit is $40, how much did they spend on lemons?",
+    "gold": "20",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just to note: Lloyd tutors at $12/hour, 6 hours week one, 9 hours week two. Total earnings for two weeks?",
+    "gold": "180",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, Jenna picked two-thirds the apples her mom did. If mom picked 30, how many did they pick together?",
+    "gold": "50",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Reminder! Neighbors prank Sue: 20 flamingos Friday, half painted white Saturday, +20 pink Sunday. At noon Sunday, how many more pink than white flamingos?",
+    "gold": "30",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – Carlos rents a canoe at $35/hour for 4 hours; Benji rents a raft at $20/hour for 6 hours. What’s the combined rental cost?",
+    "gold": "290",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick heads-up: John orders pizza for 25 friends, 3 slices each; pizzas have 10 slices. How many pizzas needed?",
+    "gold": "8",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just to note: A chef buys 5 onion bags at 60 pounds each; onions cost $1.80/pound. Total spent?",
+    "gold": "540",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here’s a little twist: Bill starts on the 5th floor. He rides the elevator up to the floor that’s equal to 3 times his starting floor plus 9. What floor is Bill on now?",
+    "gold": "24",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, here’s something fun! A juggler can handle 20 balls. Half are tennis balls, and half of the tennis balls are red. How many red tennis balls are there?",
+    "gold": "5",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note before we jump in: 5 adults and 10 children share 10 packets of chocolate bars. Each packet holds 6 bars. If each adult gets 7 bars and the rest are divided among the kids, how many does each child get?",
+    "gold": "1",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a heads-up: Will buys 18 oranges. He asks his 2 sons to wash as many as their ages: the oldest is 10, the youngest is half that. How many oranges remain unwashed?",
+    "gold": "3",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Friendly reminder! Annika brought $60 to the fair. She spent half on food, plus $15 on rides. How much money does she have left?",
+    "gold": "15",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick heads-up: A magazine costs half the price of a book. The book costs $6. A pen costs $2 less than a magazine. How much is the pen?",
+    "gold": "1",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here’s a fun one: Luke eats 3 hot dogs. Thomas eats three times more. John eats half of Thomas’s amount. How many more hot dogs does John eat than Luke?",
+    "gold": "1.5",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, an eraser costs $3 and a pencil costs $4. How much do 5 erasers and 7 pencils cost together?",
+    "gold": "43",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note before we continue: At the carnival, David buys a ride bracelet for $35 (unlimited rides), while Dasha buys tickets at $3 each for 10 rides. How much money does David save compared to Dasha?",
+    "gold": "5",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Heads-up! Jenny slices a pizza into 16 pieces. She gives 1/4 to Bill, 1/3 to Mark, and eats 3 herself. How many slices remain?",
+    "gold": "5",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – Rozanne is making eggnog: she uses 5 dozen eggs from cases plus 4 loose eggs. Each tray holds 6 glasses, and each glass needs 4 eggs. How many trays can she fill?",
+    "gold": "3",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just to note: Ali had $30. Leila gave him half of her $120. How much money does Ali have now?",
+    "gold": "90",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, Mary has 8 jars of sprinkles, each decorates 10 cupcakes. If each baking tray holds 15 cupcakes, how many trays does she need to use all the sprinkles?",
+    "gold": "6",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Reminder! Stetson bets Alec he’ll give $12 for each apple he eats. At the orchard, he eats 3/5 of the 50 apples they picked. How much money does Stetson give up?",
+    "gold": "360",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here’s a little twist: Jana has 36 puppies. Three-fourths of them are Pomeranians, and half of those are girls. How many girl Pomeranians does Jana have?",
+    "gold": "13",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, here’s something interesting! Joe throws 30 punches per minute. A match lasts 6 rounds of 4 minutes each. How many punches did he throw?",
+    "gold": "720",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note before we jump in: Kelsie bakes three times more cookies than Josh, who makes one-fifth the number Suzanne makes. If Suzanne makes 40 cookies, how many does Kelsie make?",
+    "gold": "24",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a heads-up: Timothy's locker is 32 cubic inches. Zack’s locker is half that, and Peter's is one-third of Zack’s. What’s Peter’s locker volume in cubic inches?",
+    "gold": "5.3",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Friendly reminder! Cody and Trevor share 16 sandwiches. Cody eats a quarter, Trevor eats a fifth. How many sandwiches remain?",
+    "gold": "9",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick heads-up: Jerry is twice as old as he was 6 years ago. How old will he be in 4 years?",
+    "gold": "16",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here’s a fun one: John builds a program with $120,000 funding for the first 6 months. Research extends to 12 times longer, and each later month costs 60% more. What’s the total research cost?",
+    "gold": "936,000",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, in the jeweler’s shop, a gold piece costs 3/4 of a diamond piece. Silver is $500 less than gold. If a diamond piece is $2400, what’s the total price for all three?",
+    "gold": "5300",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note before we continue: Sally’s bank account started at $250, now shows $510. Her weekly wage should be $350. How many dollars were withheld?",
+    "gold": "90",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Heads-up! A pound of almonds costs $12, walnuts $18. How much more does 2/3 pound almonds + 1/2 pound walnuts cost than 1/4 pound almonds + 1/2 pound walnuts?",
+    "gold": "4",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – on a basketball court, 200 teachers stand; 55% are history teachers. The rest are math teachers. Each sleeps 7 hours daily. How many total sleep hours for all math teachers per day?",
+    "gold": "630",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just to note: Gissela's truck hauls 5,000 pounds. Gordy’s hauls 1,000 pounds more. Combined with Gary, they haul 14,500 pounds. How much can Gary’s truck carry?",
+    "gold": "8500",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, Alex tutors over 8 days and charges $15 per day. How much does Alex earn in total?",
+    "gold": "120",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here’s a little twist: A pencil costs $0.60, and an eraser costs $0.30. If you buy 7 pencils and 9 erasers and pay $15, how much change would you get?",
+    "gold": "6.7",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, here’s something interesting! Castle bought 5 boxes of Choco Crunch and 6 boxes of Honey Loops this week. Last week she bought 3 boxes. How many more boxes did she buy this week compared to last week?",
+    "gold": "8",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note before we jump in: Jeremy saw 15 birds in the backyard and scared away 1/5 of them. A few minutes later, 25 more birds joined. How many birds are now in the backyard?",
+    "gold": "37",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just a heads-up: Marissa bought a toy at the store for $25. She had $100 and used the rest to buy Jimmy candy bars at $6 each. How many candy bars did Marissa buy?",
+    "gold": "12",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Friendly reminder! Anthony had 60 pencils. He gave away half to Brandon and 2/3 of the rest to Charlie. How many pencils did Anthony keep?",
+    "gold": "10",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick heads-up: Jack visits a museum 200 miles away, driving 80 mph each way. He spends 5 hours at the museum. How long is he gone in total?",
+    "gold": "10",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – here’s a fun one: Samwell’s store sells 48 TVs: 1/3 smart TVs, 1/6 analog TVs, rest OLED. How many OLED TVs did they sell?",
+    "gold": "24",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, Damien collects 15 bottle caps a day, each worth $0.30. How much does he earn in a 31-day month?",
+    "gold": "139.5",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note before we continue: Kris wants a 40-hour game achievement. She plays 1 hour daily for 10 days, then 3 hours daily for 5 days. How many more hours does she need?",
+    "gold": "15",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Heads-up! John buys 4 goats at $550 each and 3 cows at $1600 each. How much does he spend in total?",
+    "gold": "7250",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – An electronics seller buys 6 phones at $750 each and pays $5000 in cash. How much change will the seller return?",
+    "gold": "500",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Just to note: Martin weighs 60 kg. Carl weighs 18 kg more, and Christian weighs 10 kg more than Carl. Harry weighs 7 kg less than Christian. What’s Harry’s weight?",
+    "gold": "81",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, Dijana rows 60 miles; Anis rows 1/4 more. What’s the total distance they rowed together that day?",
+    "gold": "135",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Reminder! Dean has 40 marbles. He gives 1/4 to Jamie and 12 to Donald. How many does he keep?",
+    "gold": "18",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – 25 students each sell lollipops costing $0.90, averaging 12 sold each. If they bought them at $0.6 each, how much profit did the class raise?",
+    "gold": "90",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – Shawna's father is six times as old as Shawna. Shawna is currently four times as old as Aliya. If Aliya is 4 years old, how old is Shawna's father?",
+    "gold": "96",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note! Pamela applies an ounce of sunscreen every hour she's outside. Her bottle holds 10 ounces. While on vacation, she’ll be outside 5 hours daily for 7 days. How many bottles will she need?",
+    "gold": "4",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, Edgar eats 20 pretzels daily. If his brother eats half that, how many pretzels does his brother eat in 8 days?",
+    "gold": "80",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Friendly reminder! Bethany can run 12 laps per hour. Trey runs 5 more laps than Bethany. Shaelyn runs half as many as Trey, and Quinn runs 3 fewer than Shaelyn. How many more laps can Bethany run compared to Quinn?",
+    "gold": "7",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Heads-up! There are 60 books in a small library. Half are in English, 20% in German. How many are Spanish books?",
+    "gold": "18",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – An apple orchard sells apples in bags of 12. They sold 2400 apples today. How much did they earn if each bag is $6?",
+    "gold": "1200",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note! Jeff is 12 years older than Martha. Martha is 5 years younger than Mike, who is 26. How old is Jeff?",
+    "gold": "33",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, Caroline is four times older than Ben. Ben is three times older than Chris. If Chris is 5, how old is Caroline?",
+    "gold": "60",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Reminder! Last year, 60 students enrolled in the art class. This year, enrollment increased by 25%. How many students are enrolled this year?",
+    "gold": "75",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – Carl has a cane half as tall as himself. Carl is two feet taller than Ned, who is three feet shorter than Isabel. If Isabel is 8 feet tall, how long is Carl’s cane?",
+    "gold": "3.5",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick heads-up! Jack had $120. Sophia gave him 1/4 of her $160. How much money does Jack have now?",
+    "gold": "160",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, Sam ran 4 miles on Monday, Wednesday, and Friday; 6 miles on Tuesday and Thursday. How many miles did Sam run this week?",
+    "gold": "24",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Reminder! Ali teaches one class of 140 students at a private school. John teaches two classes, each 1/7 the size of Ali’s. What’s the combined capacity?",
+    "gold": "180",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "FYI – John, the carpenter, made 5 wooden chairs for $25 each and 3 tables for $50 each. How much does Ali owe John?",
+    "gold": "275",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "Quick note! Carly makes two fewer than four times as many brownies as cupcakes. If five people each get two treats, how many cupcakes did Carly make?",
+    "gold": "4",
+    "pred": "",
+    "correct": ""
+  },
+  {
+    "question": "By the way, James wants to hang streamers around his rectangular backyard, which is 25 feet long and 18 feet wide. How many feet of streamers does he need?",
+    "gold": "86",
+    "pred": "",
+    "correct": ""
+  }
+]
